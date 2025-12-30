@@ -1,0 +1,58 @@
+'Brokerage-services---Retail-Online':
+  'contentB7': 'e372e678-a4c6-4760-ad5e-1322045f6d5e'
+  'description': 'Brokerage services - Retail Online editing'
+  'headerA2': '8d776510-33e7-40e5-a966-2733a02a6032'
+  'jcr:primaryType': 'mt:service-retail-online'
+  'jcr:uuid': '095593b4-877c-47f2-ac71-83698e9a282b'
+  'mgnl:created': 2025-12-23T03:57:48.010+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-30T00:28:39.979+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Brokerage services - Retail Online'
+  'title': 'Brokerage services - Retail Online editing'
+  'featureC11List':
+    'c11Items': ['bbdc94d2-cceb-497e-aef9-b4fcfa9dfb38', 'c90ffc2e-b472-4e2a-86e9-80eeb3a62ac5',
+      '83c5eac2-5841-4550-a61f-0e6b761e70e7', '83b41ecd-1e20-424d-8ba5-4a75434132f6',
+      '76a71076-bb1b-4a46-8b1a-df33a9eab57f']
+    'jcr:uuid': 'cbd8e4d5-c1cb-48fd-8aaa-a4b601b8430e'
+    'mgnl:created': 2025-12-23T03:57:48.014+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T00:28:39.973+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Signup, login, trade online with UOBKH'
+  'accordionE2List':
+    'e2Items': ['2effe508-e7d8-4848-87f9-00f2e129fbfb', '2b98cbba-b24f-4d8d-9f5b-b792fe0c9a57',
+      '4a4961c5-83b3-4489-afde-2a3a935144e7', 'ea7f3769-da8c-4d1a-9487-dc1b397af6c8',
+      'e724aa8e-c5c3-4bcf-9cc2-f8085321b683', '64a2d1c5-86d6-40ec-951f-c98a2967bf39',
+      '7cebd756-d9f9-43d2-bc62-6720fd1c74e4']
+    'jcr:uuid': 'ee33fe06-913c-45cd-aea7-fdae87f06552'
+    'mgnl:created': 2025-12-23T03:57:48.015+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T00:28:39.976+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'A world of wealth-building opportunities editing'
+  'contentC3List':
+    'c3Items': ['7d058669-f541-4c07-bc10-5c549dd2aaca', '07a6d99a-d340-4f07-966b-b568a10c9e77',
+      '4b9d367c-cbf7-4145-829b-321aa943d65d', '8206d401-1d93-4ed5-9b6f-4b65a7c2ba0a']
+    'jcr:uuid': '1c6eb2f4-ae08-47a0-9c13-f74993a800e7'
+    'mgnl:created': 2025-12-23T03:57:48.017+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T00:28:39.977+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC5List':
+    'c5Items': ['3bae1b46-ae3b-46ad-8e8d-8716fdebd2f2', '1cd12d0e-8908-4503-bbde-ab2bae23439a',
+      'bf612357-ed5b-4017-9e8b-c0c8a393ea01']
+    'jcr:uuid': '73b61740-d291-48e1-a532-b6729a38aa35'
+    'mgnl:created': 2025-12-23T03:57:48.018+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T00:28:39.978+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['c5686a3e-21df-469e-b5a7-2ad43183fbf2', '04976f2d-61ea-4f8d-bf33-a421cd28d2f3',
+      '73a61c24-d5b6-4aec-b42f-64f3e2ff14db']
+    'jcr:uuid': '9209c30a-8241-4471-88e6-27e1f6806158'
+    'mgnl:created': 2025-12-23T03:57:48.018+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T00:28:39.979+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Happening'

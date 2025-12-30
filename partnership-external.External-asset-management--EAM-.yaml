@@ -1,0 +1,53 @@
+'External-asset-management--EAM-':
+  'contentB3List': 'e651ebb8-88d9-46f1-be53-91e42a26e689'
+  'contentB7': '8aeb6ddb-2118-47ad-ad16-6c6bdc13a3ef'
+  'description': 'External asset management (EAM)'
+  'headerA2': '9e8b6805-4ec1-4c5a-9446-df9ffde45b8c'
+  'jcr:primaryType': 'mt:partnership-external'
+  'jcr:uuid': 'cfef226c-18c9-4c71-847f-ef63b47ed9c3'
+  'mgnl:created': 2025-12-21T01:05:36.948+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-30T02:18:04.138+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'External asset management (EAM)'
+  'title': 'External asset management (EAM)'
+  'accordionE2List':
+    'description': '<p><!--StartFragment -->In addition to managing assets, our EAMs
+      cultivate enduring partnerships and share access to our significant resources.&nbsp;</p>
+
+      '
+    'e2Items': ['7cebd756-d9f9-43d2-bc62-6720fd1c74e4', '4a4961c5-83b3-4489-afde-2a3a935144e7',
+      '2b98cbba-b24f-4d8d-9f5b-b792fe0c9a57', 'e724aa8e-c5c3-4bcf-9cc2-f8085321b683',
+      'ea7f3769-da8c-4d1a-9487-dc1b397af6c8']
+    'jcr:uuid': '33386377-984c-4050-abe5-7a38bc2866f0'
+    'mgnl:created': 2025-12-21T01:05:36.950+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T02:18:04.118+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Trust, discretion and disciplined stewardship'
+  'contentC3List':
+    'c3Items': ['7d058669-f541-4c07-bc10-5c549dd2aaca', '07a6d99a-d340-4f07-966b-b568a10c9e77',
+      '8206d401-1d93-4ed5-9b6f-4b65a7c2ba0a', '4b9d367c-cbf7-4145-829b-321aa943d65d']
+    'jcr:uuid': 'a0fa4c6f-47fd-4864-a006-d5fdc28c2f2e'
+    'mgnl:created': 2025-12-21T01:05:36.952+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T02:18:04.137+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['04976f2d-61ea-4f8d-bf33-a421cd28d2f3', 'c5686a3e-21df-469e-b5a7-2ad43183fbf2',
+      '73a61c24-d5b6-4aec-b42f-64f3e2ff14db']
+    'jcr:uuid': '748b7089-c135-4df5-867d-fe45f004d199'
+    'mgnl:created': 2025-12-21T01:05:36.952+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T02:18:04.138+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Happening'
+  'imageComponent':
+    'image': ['jcr:38831f84-2bb9-4ae2-91b4-5fd22e4dddd1', 'jcr:d6577b4e-2373-421d-96d4-182d94fd3b46',
+      'jcr:ed76ae59-57f4-4012-a1b4-758fddcbe9de']
+    'jcr:uuid': '834f4ea8-b2ea-49d0-8ae1-13f15a104c3c'
+    'mgnl:created': 2025-12-30T02:17:09.183+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T02:18:04.135+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Partnered banks'

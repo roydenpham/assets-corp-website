@@ -1,0 +1,31 @@
+'Brokerage-services---Institutional':
+  'contentB2': 'da3bcd5d-a747-4da4-813c-1c4ecc76969d'
+  'contentB3List1': '583482f9-4ff9-44eb-9f07-f7cc910ed89d'
+  'contentB3List2': 'd4b59216-ffbe-4798-9db4-77fd49c7f8ad'
+  'contentB7': '6d3ed8ec-6ad5-459a-8f83-d673280307e3'
+  'description': 'Brokerage services - Institutional'
+  'headerA2': '2aad08c5-9a96-4b07-a4de-4ce27ad37ed0'
+  'jcr:primaryType': 'mt:service-institutional'
+  'jcr:uuid': 'aad67193-7829-4daa-93ff-0b3cc487b506'
+  'mgnl:created': 2025-12-21T01:03:48.438+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T12:30:55.533+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Brokerage services - Institutional'
+  'title': 'Brokerage services - Institutional'
+  'contentC3List':
+    'c3Items': ['7d058669-f541-4c07-bc10-5c549dd2aaca', '07a6d99a-d340-4f07-966b-b568a10c9e77',
+      '8206d401-1d93-4ed5-9b6f-4b65a7c2ba0a', '4b9d367c-cbf7-4145-829b-321aa943d65d']
+    'jcr:uuid': '6a68c77c-ec1b-4ae9-9a3d-1dfdcc79c541'
+    'mgnl:created': 2025-12-21T01:03:48.441+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T12:30:55.532+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['04976f2d-61ea-4f8d-bf33-a421cd28d2f3', 'c5686a3e-21df-469e-b5a7-2ad43183fbf2',
+      '73a61c24-d5b6-4aec-b42f-64f3e2ff14db']
+    'jcr:uuid': 'd8188d62-002d-4d0e-897b-e59fe9b171ea'
+    'mgnl:created': 2025-12-21T01:03:48.443+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T12:30:55.533+08:00
+    'mgnl:lastModifiedBy': 'superuser'
