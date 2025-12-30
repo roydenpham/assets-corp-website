@@ -1,0 +1,129 @@
+'Private-wealth-management':
+  'contentB1': '9b55f3dd-cc4c-4aa6-a1d4-7f8688939406'
+  'contentB2': '7cc472e6-ded9-4ef7-af93-558d47e8426d'
+  'contentB7': 'c626f9a9-d072-47d8-b6fe-04789a76cc52'
+  'description': 'Private wealth management'
+  'headerA2': '4b102ce0-3316-4243-b95a-20e1d1411644'
+  'jcr:primaryType': 'mt:service-private'
+  'jcr:uuid': 'd0c34b17-cd45-4461-92cf-9fe9f9b33b4d'
+  'mgnl:created': 2025-12-21T00:17:43.256+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T13:30:45.708+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Private wealth management'
+  'title': 'Private wealth management'
+  'featureC11List':
+    'c11Items': ['13842e35-f2d7-4f07-9ab5-bc62faddd7ad', 'dfaab7c1-fbbb-4b3f-8201-616fddb36f8a',
+      '81766c55-4ed6-4496-b320-a08fb5e682de', '98c4489f-d134-42c5-830e-858624c9fa75',
+      '8b3f0f41-e53b-4abb-bba2-5857b659c942']
+    'jcr:uuid': '0d560b57-19ee-45af-ab26-178b2232d73a'
+    'mgnl:created': 2025-12-21T00:17:43.262+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.699+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Personal service with local understanding'
+  'listD1List1':
+    'd1Items': ['016189eb-1106-4d63-9eeb-9cba124e5c45', 'df245ab7-e09c-4872-92de-3cf7138539c3',
+      'cb776e87-b4e2-4898-9958-9d417becdadb', '05d79f9b-1d44-47f0-972f-35d8adeb1a7d']
+    'jcr:uuid': '4c2b5078-ffc5-40b0-9427-a18b9640460f'
+    'mgnl:created': 2025-12-21T00:17:43.265+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.701+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Our commitment to serving your interests'
+    'ctaChooser':
+      'isExternal': false
+      'jcr:uuid': '88211e13-4bdc-4855-bef6-db79bac02245'
+      'label': 'Message us now'
+      'mgnl:created': 2025-12-21T00:17:43.266+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-21T00:17:43.266+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'listD1List2':
+    'd1Items': ['b7d566e1-0aaf-45cb-8ac6-5f51800b7c15', '0b2efe0b-157e-480f-8d00-b3777cdadbe8',
+      '0873dfc3-2bd9-47b6-aae0-732993e78cce', 'e0cb27d3-ea5f-4341-b06d-f4cb4e1a8759']
+    'jcr:uuid': '9960cb65-622c-4122-a0f0-455cbe84dfc4'
+    'mgnl:created': 2025-12-21T00:17:43.267+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.702+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'UOB Kay Hian ticks all the boxes'
+    'ctaChooser':
+      'isExternal': false
+      'jcr:uuid': '73472c2e-f9a9-4fa4-9317-8e8c234df7e5'
+      'label': 'Message us now'
+      'mgnl:created': 2025-12-21T00:17:43.268+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-21T00:17:43.268+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'stepsKList':
+    'jcr:uuid': '5f4307bf-d39d-4196-8bb9-9c896ae700a0'
+    'kSteps': ['f06720c5-0d3a-425d-b994-3ebc80a9320b', 'ed964cb0-2473-48ef-89c0-f008195a2c19',
+      '5a4698b5-781e-4fac-bbf0-c49b3e473537', '54b5c211-0c6a-4921-bb4f-9c26e42852b5']
+    'mgnl:created': 2025-12-21T00:17:43.268+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.703+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Our four-step approach to portfolio management'
+    'ctaChooser':
+      'isExternal': false
+      'jcr:uuid': '967a2c3a-0cd8-422d-aff5-96f7d7c09e74'
+      'label': 'Message us now'
+      'mgnl:created': 2025-12-21T00:17:43.269+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-21T00:17:43.269+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'accordionE2List':
+    'e2Items': ['2effe508-e7d8-4848-87f9-00f2e129fbfb', '64a2d1c5-86d6-40ec-951f-c98a2967bf39',
+      'ea7f3769-da8c-4d1a-9487-dc1b397af6c8', 'e724aa8e-c5c3-4bcf-9cc2-f8085321b683',
+      '4a4961c5-83b3-4489-afde-2a3a935144e7', '2b98cbba-b24f-4d8d-9f5b-b792fe0c9a57',
+      '7cebd756-d9f9-43d2-bc62-6720fd1c74e4']
+    'jcr:uuid': '1363e8db-1163-4426-a580-2e2de6d6ccd5'
+    'mgnl:created': 2025-12-21T00:17:43.270+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.704+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'A world of wealth-building opportunities'
+  'logoMList':
+    'jcr:uuid': '2c013223-841e-4644-8606-55ff69555da4'
+    'mItems': ['2bf47a3f-3279-4296-a0e8-fae09db2e0be', '8440ca1b-052e-4f7f-9f7b-0815de2ac9f6',
+      '2bf47a3f-3279-4296-a0e8-fae09db2e0be', '8440ca1b-052e-4f7f-9f7b-0815de2ac9f6',
+      '2bf47a3f-3279-4296-a0e8-fae09db2e0be']
+    'mgnl:created': 2025-12-21T00:17:43.271+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.705+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'We partner with global leaders'
+  'contentC4List':
+    'c4Items': ['45b78546-a005-4024-90e8-cb9bd07f43cd', 'cceb2ffe-2d66-4918-a9f3-ddcb858512d2']
+    'jcr:uuid': '71e902ab-1275-4238-9b00-c74fdcca83de'
+    'mgnl:created': 2025-12-21T00:17:43.272+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.706+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Get access to our 80+ research analysts’ publications'
+  'contentC3List':
+    'c3Items': ['7d058669-f541-4c07-bc10-5c549dd2aaca', '07a6d99a-d340-4f07-966b-b568a10c9e77',
+      '8206d401-1d93-4ed5-9b6f-4b65a7c2ba0a', '4b9d367c-cbf7-4145-829b-321aa943d65d']
+    'jcr:uuid': '09a66cac-9918-4ca0-8478-4300b774e505'
+    'mgnl:created': 2025-12-21T00:17:43.273+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.706+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC5List':
+    'c5Items': ['3bae1b46-ae3b-46ad-8e8d-8716fdebd2f2', 'b72494ff-3b3d-4582-a1af-c8a7c3ef27f6',
+      'bf612357-ed5b-4017-9e8b-c0c8a393ea01']
+    'jcr:uuid': '0832d9d6-9a1e-4784-914b-ac299cdb43c7'
+    'mgnl:created': 2025-12-21T00:17:43.275+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.707+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['04976f2d-61ea-4f8d-bf33-a421cd28d2f3', 'c5686a3e-21df-469e-b5a7-2ad43183fbf2',
+      '73a61c24-d5b6-4aec-b42f-64f3e2ff14db']
+    'jcr:uuid': '5b4a3683-f05b-4c26-b572-d9b72bda4a8f'
+    'mgnl:created': 2025-12-21T00:17:43.275+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:30:45.708+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Latest'

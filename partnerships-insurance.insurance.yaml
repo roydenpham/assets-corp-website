@@ -1,0 +1,43 @@
+'insurance':
+  'contentB3List': '509c84b2-0808-4206-98d5-352b8c2bc8bf'
+  'description': 'insurance'
+  'headerA2': '59054eb5-36b0-451d-9a6b-619d9a53683d'
+  'jcr:primaryType': 'mt:partnershipsInsurance'
+  'jcr:uuid': '79d0f99d-94fd-4e36-95cb-13f993cbfda1'
+  'mgnl:created': 2025-12-30T02:20:53.964+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-30T02:20:53.964+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'insurance'
+  'title': 'insurance'
+  'b14Content':
+    'description': 'As an introducer, we connect clients with trusted and licensed
+      insurance brokers who provide access to a comprehensive suite of insurance solutions.  Our
+      offerings help address key wealth objectives, from personal protection and estate
+      planning to legacy transfer and business continuity.  With a growing range of
+      investment-linked insurance products, including solutions that allow portfolio
+      management within the policy, UOB Kay Hian is uniquely positioned to support
+      a holistic and integrated wealth management approach for clients.'
+    'jcr:uuid': '7c9c6af3-6085-472f-9b71-7df963615e52'
+    'mgnl:created': 2025-12-30T02:20:53.968+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T02:20:53.968+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Tailored strategies that complement broader wealth planning'
+  'contentC3List':
+    'c3Items': ['7d058669-f541-4c07-bc10-5c549dd2aaca', '07a6d99a-d340-4f07-966b-b568a10c9e77',
+      '8206d401-1d93-4ed5-9b6f-4b65a7c2ba0a', '4b9d367c-cbf7-4145-829b-321aa943d65d']
+    'jcr:uuid': 'e977becf-2fd2-48e1-b753-d387aae68068'
+    'mgnl:created': 2025-12-30T02:20:53.968+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T02:20:53.968+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['c5686a3e-21df-469e-b5a7-2ad43183fbf2', '04976f2d-61ea-4f8d-bf33-a421cd28d2f3',
+      '73a61c24-d5b6-4aec-b42f-64f3e2ff14db']
+    'jcr:uuid': 'a7c582d9-920a-48f2-b967-16f5f1af7b2a'
+    'mgnl:created': 2025-12-30T02:20:53.970+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T02:20:53.970+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Happening'

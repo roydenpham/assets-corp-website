@@ -6,18 +6,18 @@
   'jcr:uuid': '6a9b7996-6fa1-4e8a-b77a-acbd2fe816a2'
   'mgnl:created': 2025-12-21T01:16:58.550+08:00
   'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2025-12-30T00:07:09.115+08:00
+  'mgnl:lastModified': 2025-12-30T16:28:34.094+08:00
   'mgnl:lastModifiedBy': 'superuser'
   'name': 'Independent financial advisory (IFA)'
   'title': 'Independent financial advisory (IFA)'
   'accordionE2List':
     'e2Items': ['e405d21c-4c37-4c8c-be98-1b52b267556d', 'ce5055c3-abe8-4648-931e-884c76dae421',
-      '81268fe5-6be0-44b6-a97d-4e17f64e0222', 'cd89829f-142f-40c6-a299-115229f95595',
-      '7cebd756-d9f9-43d2-bc62-6720fd1c74e4']
+      '81268fe5-6be0-44b6-a97d-4e17f64e0222', '1c1bacd4-15d0-47cb-9c43-4a6ac7e97983',
+      '2e3e0afb-6481-400e-9bc5-1fbe09bca71e']
     'jcr:uuid': 'd14bfe6f-1b59-41c1-b61b-90e5ac63f394'
     'mgnl:created': 2025-12-21T01:16:58.553+08:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2025-12-30T00:07:09.112+08:00
+    'mgnl:lastModified': 2025-12-30T16:28:34.089+08:00
     'mgnl:lastModifiedBy': 'superuser'
     'title': 'Comprehensive wealth structure'
   'contentC3List':
@@ -26,7 +26,7 @@
     'jcr:uuid': '768c5846-7e11-4490-9dfa-90883f381e31'
     'mgnl:created': 2025-12-21T01:16:58.555+08:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2025-12-30T00:07:09.114+08:00
+    'mgnl:lastModified': 2025-12-30T16:28:34.090+08:00
     'mgnl:lastModifiedBy': 'superuser'
   'featureC2List':
     'c2Items': ['04976f2d-61ea-4f8d-bf33-a421cd28d2f3', 'c5686a3e-21df-469e-b5a7-2ad43183fbf2',
@@ -34,6 +34,6 @@
     'jcr:uuid': '523607d3-bc0b-4dc8-92dc-451ff2af5c63'
     'mgnl:created': 2025-12-21T01:16:58.556+08:00
     'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2025-12-30T00:07:09.115+08:00
+    'mgnl:lastModified': 2025-12-30T16:28:34.094+08:00
     'mgnl:lastModifiedBy': 'superuser'
     'title': 'Happening'
