@@ -1,0 +1,20 @@
+'Broker-supported-investing-with-ease':
+  'image': 'jcr:0c8fa3c8-f0fe-43fe-94f1-0dab7075ba9e'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentC3'
+  'jcr:uuid': '07a6d99a-d340-4f07-966b-b568a10c9e77'
+  'mgnl:created': 2025-12-11T12:58:35.291+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T09:54:25.798+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Broker supported investing with ease'
+  'title': 'Broker supported investing with ease'
+  'ctaChooser':
+    'href': 'https://laodong.vn/du-lich'
+    'isExternal': true
+    'jcr:uuid': '1a9c0eba-ea48-427f-87a8-2812f9515ee5'
+    'label': 'Find out now'
+    'mgnl:created': 2025-12-11T12:58:35.293+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-11T12:58:35.293+08:00
+    'mgnl:lastModifiedBy': 'superuser'

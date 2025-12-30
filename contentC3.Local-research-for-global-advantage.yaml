@@ -1,0 +1,19 @@
+'Local-research-for-global-advantage':
+  'image': 'jcr:386f0bbf-3c53-42ca-83d4-2574a61d37c3'
+  'jcr:primaryType': 'mt:contentC3'
+  'jcr:uuid': '8206d401-1d93-4ed5-9b6f-4b65a7c2ba0a'
+  'mgnl:created': 2025-12-11T12:59:11.298+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T12:16:51.761+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Local research for global advantage'
+  'title': 'Local research for global advantage'
+  'ctaChooser':
+    'href': 'https://laodong.vn/du-lich'
+    'isExternal': true
+    'jcr:uuid': '694ef8c2-a5ef-42e5-8b9a-f4e44acce776'
+    'label': 'Find out now'
+    'mgnl:created': 2025-12-11T12:59:11.300+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-11T12:59:11.300+08:00
+    'mgnl:lastModifiedBy': 'superuser'

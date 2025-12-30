@@ -1,0 +1,16 @@
+'Sectors':
+  'description': 'Our analysts deliver in-depth research across key GICS sectors,
+    helping investors target value in changing markets.'
+  'itemText': '<ul><li><strong>Energy</strong></li><li><strong>Materials</strong></li><li><strong>Industrials</strong></li><li><strong>Consumer
+    Discretionary</strong></li><li><strong>Consumer Staples</strong></li><li><strong>Health
+    Care</strong></li><li><strong>Financials</strong></li><li><strong>Information
+    Technology</strong></li><li><strong>Communication Services</strong></li><li><strong>Utilities</strong></li><li><strong>Real
+    Estate</strong></li></ul>'
+  'jcr:primaryType': 'mt:contentB3'
+  'jcr:uuid': 'e2d9bdc8-0a8b-478e-9c8a-ba9f38cc94fd'
+  'mgnl:created': 2025-12-12T12:30:31.741+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-12T12:30:31.741+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Sectors'
+  'title': 'Focused, data-driven, actionable coverage'

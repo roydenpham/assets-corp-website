@@ -1,0 +1,18 @@
+'Indonesia-Assisted':
+  'image': 'jcr:2b3773c5-644a-4ecd-8caf-095a0bab78d4'
+  'jcr:primaryType': 'mt:featureC11'
+  'jcr:uuid': 'dc763ac7-9fb2-4c07-893f-a7870b75972c'
+  'mgnl:created': 2025-12-23T12:02:19.237+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T12:02:19.237+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Indonesia Assisted'
+  'title': 'Indonesia '
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': '77fb8332-a6c7-4031-b68c-d212cd0dcaad'
+    'label': 'View website'
+    'mgnl:created': 2025-12-23T12:02:19.244+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T12:02:19.244+08:00
+    'mgnl:lastModifiedBy': 'superuser'

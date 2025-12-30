@@ -1,0 +1,18 @@
+'Thailand-Assisted':
+  'image': 'jcr:fcd836bc-78ad-438a-a092-9550a8776dc0'
+  'jcr:primaryType': 'mt:featureC11'
+  'jcr:uuid': '6804fd43-a152-4624-b990-4d19e0dc8948'
+  'mgnl:created': 2025-12-23T12:05:46.020+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T12:05:59.974+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Thailand Assisted'
+  'title': 'Thailand '
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'dfabc49f-55fb-406a-8ee2-dd461e01b297'
+    'label': 'View website'
+    'mgnl:created': 2025-12-23T12:05:46.027+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T12:05:59.974+08:00
+    'mgnl:lastModifiedBy': 'superuser'

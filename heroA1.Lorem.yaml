@@ -1,0 +1,32 @@
+'Lorem':
+  'description': '<p>For over 100 years UOB Kay Hian has worked to be the trusted
+    partner of people and organisations seeking secure financial futures.&nbsp;</p>
+
+    '
+  'image': 'jcr:7c494336-b250-4469-bf06-2778a791e67d'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:heroA1'
+  'jcr:uuid': '2d02adb2-6d22-4033-bb2f-e7edcc32a727'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-09T04:19:46.677+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2025-12-10T18:51:27.872+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2025-12-10T18:51:27.238+08:00
+  'mgnl:lastModified': 2025-12-30T00:18:59.225+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Lorem'
+  'title': 'Lorem'
+  'ctaChooser':
+    'href': 'https://mfe-webportal-web.aws001nonprod.uobkayhian.com/about/why-uobkh'
+    'isExternal': false
+    'jcr:uuid': '87f372c9-2fb2-4428-a095-adfce02c41aa'
+    'label': 'More'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-09T04:19:46.682+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2025-12-10T18:51:27.873+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T00:18:59.225+08:00
+    'mgnl:lastModifiedBy': 'superuser'

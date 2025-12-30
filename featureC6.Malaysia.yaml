@@ -1,0 +1,18 @@
+'Malaysia':
+  'jcr:primaryType': 'mt:featureC6'
+  'jcr:uuid': 'bca65c47-898e-4113-9c38-51cfca242c1c'
+  'mgnl:created': 2025-12-21T02:26:27.325+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-29T10:14:21.330+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Malaysia'
+  'title': 'Malaysia'
+  'ctaChooser':
+    'href': 'https://www.utrade.com.my/public/research'
+    'isExternal': false
+    'jcr:uuid': 'c657b2d7-9634-4d7e-b952-d35217cf8548'
+    'label': 'View website'
+    'mgnl:created': 2025-12-21T02:26:27.327+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-29T10:14:21.330+08:00
+    'mgnl:lastModifiedBy': 'superuser'

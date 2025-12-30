@@ -1,0 +1,33 @@
+'Credit-facilities-for-investor-flexibility':
+  'background': false
+  'description': '<p>Customised financing solutions to boost your investment capacity
+    and manage your cash flow according to your needs and situation.<br />
+
+    Yield / Return enhancement &ndash; Amplify returns on investment through leverage<br
+    />
+
+    Liquidity &ndash; Enjoy full flexibility to draw down on standby funds for investment<br
+    />
+
+    Monetisation &ndash; Manage cash flow without having to sell assets</p>
+
+    '
+  'image': 'jcr:bbf836e8-c790-4ec8-af71-b52354459401'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB1'
+  'jcr:uuid': '9b55f3dd-cc4c-4aa6-a1d4-7f8688939406'
+  'mgnl:created': 2025-12-13T19:22:29.015+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T09:39:17.797+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Credit facilities for investor flexibility'
+  'title': 'Credit facilities for investor flexibility'
+  'ctaChooser':
+    'href': 'https://laodong.vn/du-lich'
+    'isExternal': false
+    'jcr:uuid': 'abce6f05-2b36-4e84-b357-182065dbb6e3'
+    'label': 'Message us now'
+    'mgnl:created': 2025-12-13T19:25:27.270+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T09:39:17.797+08:00
+    'mgnl:lastModifiedBy': 'superuser'

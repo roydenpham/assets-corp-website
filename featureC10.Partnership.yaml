@@ -1,0 +1,57 @@
+'Partnership':
+  'image': 'jcr:a8b1ac48-1674-478c-aa13-952c1e430826'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC10'
+  'jcr:uuid': 'f80a0601-031b-4a64-87db-15faab74cc6f'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-08T22:50:09.186+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2025-12-10T18:01:42.357+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2025-12-10T18:01:42.248+08:00
+  'mgnl:lastModified': 2025-12-23T09:44:36.194+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Partnership'
+  'title': 'Partnership'
+  'downloadLists':
+    'jcr:uuid': '76ca9403-22b4-4032-9a2b-2e1613b20661'
+    'mgnl:created': 2025-12-23T05:37:15.335+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T09:44:36.194+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'jcr:uuid': '4e6e5cda-6a81-494d-8d24-c105c582071e'
+      'mgnl:created': 2025-12-23T05:37:15.336+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T09:44:36.193+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'External asset management (EAM)'
+    '1':
+      'jcr:uuid': 'f1b546f8-062b-4532-808d-6ad726a51c1c'
+      'mgnl:created': 2025-12-23T05:37:15.336+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T09:44:36.194+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Independent financial advisory (IFA)'
+    '2':
+      'jcr:uuid': 'f7a95d81-ef0e-435a-8a20-7ef16019619e'
+      'mgnl:created': 2025-12-23T05:37:15.336+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T09:44:36.194+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Insurance'
+    '3':
+      'jcr:uuid': 'f454070b-780d-4b68-af37-820cff93ff89'
+      'mgnl:created': 2025-12-23T05:37:15.337+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T09:44:36.194+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Financial Institutions'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': '7d71012d-e393-4a4c-9e50-fb7635a29e20'
+    'mgnl:created': 2025-12-23T05:37:15.339+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T05:37:15.339+08:00
+    'mgnl:lastModifiedBy': 'superuser'

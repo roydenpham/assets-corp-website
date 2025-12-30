@@ -1,0 +1,13 @@
+'Wealth-Daily':
+  'description': 'A must-read before the market open for overnight price movements,
+    breaking news and data points'
+  'jcr:primaryType': 'mt:listD3'
+  'jcr:uuid': 'a5497fba-e2a5-44ac-8ccd-ceb7b958695f'
+  'length': '4-5 pages'
+  'mgnl:created': 2025-12-11T18:43:03.842+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-11T18:43:03.842+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Wealth Daily'
+  'reportDate': 'Daily'
+  'reportName': 'Wealth Daily'

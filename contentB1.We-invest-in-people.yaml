@@ -1,0 +1,40 @@
+'We-invest-in-people':
+  'background': true
+  'description': '<p>UOBKH team members work diligently as trusted partners to people
+    and organisations seeking secure financial futures.</p>
+
+
+    <p>&nbsp;</p>
+
+
+    <p>We invite qualified individuals to join us to offer tailored, flexible solutions
+    that will help others to achieve their financial objectives.</p>
+
+    '
+  'image': 'jcr:39ef174b-126e-4d47-95e0-3dc7d1b7bb9b'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB1'
+  'jcr:uuid': '272f01b6-2d40-4a4d-bd10-35047f95defc'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-09T01:47:52.602+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2025-12-10T18:22:17.902+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2025-12-10T18:22:17.275+08:00
+  'mgnl:lastModified': 2025-12-29T03:35:30.454+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'We invest in people'
+  'title': 'We invest in people'
+  'ctaChooser':
+    'href': 'https://www.utrade.com.hk/en/Career'
+    'isExternal': false
+    'jcr:uuid': 'ff22c0a8-430c-4531-b039-f06ebc0a6350'
+    'label': 'Career opportunities'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-09T01:47:52.614+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2025-12-10T18:22:17.902+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-29T03:35:30.454+08:00
+    'mgnl:lastModifiedBy': 'superuser'

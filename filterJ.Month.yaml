@@ -1,0 +1,30 @@
+'Month':
+  'jcr:primaryType': 'mt:filterJ'
+  'jcr:uuid': 'ee4b6c8e-9508-4d9e-a525-1b2cec701ef7'
+  'label': 'Month'
+  'mgnl:created': 2025-12-21T01:26:09.689+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-21T01:26:09.689+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Month'
+  'placeholder': 'Select month'
+  'items':
+    'jcr:uuid': 'e54ed903-2910-4d03-9f44-7a46463fb0c2'
+    'mgnl:created': 2025-12-21T01:26:09.691+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-21T01:26:09.691+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'jcr:uuid': 'e61a4c4d-e53c-4ba7-8326-b8b9d7f982a7'
+      'mgnl:created': 2025-12-21T01:26:09.691+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-21T01:26:09.691+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'value': '11'
+    '1':
+      'jcr:uuid': '4774a8b2-9665-4b50-9741-6f72e9a2b9fd'
+      'mgnl:created': 2025-12-21T01:26:09.691+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-21T01:26:09.691+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'value': '12'

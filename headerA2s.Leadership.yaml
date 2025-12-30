@@ -1,0 +1,23 @@
+'Leadership':
+  'description': '<p><!--StartFragment -->UOB Kay Hian is guided by a team of qualified
+    professionals who are dedicated to supporting people and organisations seeking
+    secure financial futures</p>
+
+    '
+  'headerBgColor': 'redGradient'
+  'headerType': 'a4'
+  'jcr:primaryType': 'mt:headerA2'
+  'jcr:uuid': '6b3ba2a7-87cb-4a17-af23-cf19d85fd7ac'
+  'mgnl:created': 2025-12-23T14:22:42.502+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T14:32:52.846+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Leadership'
+  'title': 'Experienced, committed leadership'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'c084ec7a-fe3e-41d9-93d0-04a7fc6acf1b'
+    'mgnl:created': 2025-12-23T14:22:42.504+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T14:22:42.504+08:00
+    'mgnl:lastModifiedBy': 'superuser'

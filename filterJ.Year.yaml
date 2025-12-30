@@ -1,0 +1,30 @@
+'Year':
+  'jcr:primaryType': 'mt:filterJ'
+  'jcr:uuid': '154f7eb5-e33e-48c9-a722-1476bb9f3fe1'
+  'label': 'Year'
+  'mgnl:created': 2025-12-21T01:25:38.370+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-21T01:25:38.371+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Year'
+  'placeholder': 'Select year'
+  'items':
+    'jcr:uuid': 'f06068de-1609-4d62-b7b5-2df1942a86f9'
+    'mgnl:created': 2025-12-21T01:25:38.374+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-21T01:25:38.374+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'jcr:uuid': '5b3c341b-6732-4208-ae17-0d04d518bf37'
+      'mgnl:created': 2025-12-21T01:25:38.374+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-21T01:25:38.374+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'value': '2025'
+    '1':
+      'jcr:uuid': '8371e78b-aa5c-479d-8f58-a8e16b825384'
+      'mgnl:created': 2025-12-21T01:25:38.374+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastModified': 2025-12-21T01:25:38.374+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'value': '2026'

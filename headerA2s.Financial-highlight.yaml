@@ -1,0 +1,19 @@
+'Financial-highlight':
+  'headerBgColor': 'redGradient'
+  'headerType': 'a2'
+  'image': 'jcr:7c494336-b250-4469-bf06-2778a791e67d'
+  'jcr:primaryType': 'mt:headerA2'
+  'jcr:uuid': 'e3fd208f-8ac0-49f8-9f8c-27c53a89c504'
+  'mgnl:created': 2025-12-23T14:13:26.460+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-29T23:51:03.501+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Financial highlight'
+  'title': 'Transparent, responsive, responsible'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'a2974fcd-a0bd-4fc5-9757-bb08811f7afa'
+    'mgnl:created': 2025-12-23T14:13:26.475+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T14:13:26.475+08:00
+    'mgnl:lastModifiedBy': 'superuser'

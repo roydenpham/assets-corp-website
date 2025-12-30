@@ -1,0 +1,12 @@
+'Fixed-income':
+  'description': '<p>Fixed income&nbsp;Equities editing&nbsp;</p>
+
+    '
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': 'ea7f3769-da8c-4d1a-9487-dc1b397af6c8'
+  'mgnl:created': 2025-12-11T12:55:30.528+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T11:11:27.590+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Fixed income'
+  'title': 'Fixed income editing'

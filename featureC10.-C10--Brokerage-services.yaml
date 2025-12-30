@@ -1,0 +1,70 @@
+'-C10--Brokerage-services':
+  'image': 'jcr:0c8fa3c8-f0fe-43fe-94f1-0dab7075ba9e'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC10'
+  'jcr:uuid': 'ef7a7e75-4e47-4cc3-82a5-76836cf156fe'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-08T22:48:56.322+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2025-12-10T18:11:46.315+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2025-12-10T18:11:45.255+08:00
+  'mgnl:lastModified': 2025-12-23T09:43:17.726+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': '[C10] Brokerage services'
+  'title': 'Brokerage services'
+  'downloadLists':
+    'jcr:uuid': 'b4a9e600-51b0-4c0f-bde3-fd7f44355678'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-08T22:57:41.807+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2025-12-10T18:11:46.316+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T09:43:17.726+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'content': "<ul>\n\t<li>Retail online</li>\n\t<li>fdsafdsafdsa</li>\n\t<li>fdsafdsa</li>\n\
+        </ul>\n"
+      'jcr:uuid': '3ccbae36-e6f4-4689-bfad-edc6a0d632e5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-08T22:57:41.824+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2025-12-10T18:11:46.317+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T09:43:17.726+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Retail online'
+    '1':
+      'content': '<p>Retail assisted</p>
+
+        '
+      'jcr:uuid': 'dce4021b-97bf-499e-b03e-4dd4f7aef2eb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-08T22:57:41.828+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2025-12-10T18:11:46.317+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T09:43:17.726+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Retail assisted'
+    '2':
+      'content': '<p>Institutional</p>
+
+        '
+      'jcr:uuid': 'ef3c1673-d8ca-4536-95b1-c6097e89a796'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-08T22:57:41.830+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2025-12-10T18:11:46.319+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T09:43:17.726+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Institutional'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'e0f589f6-c416-443e-bb8d-99c4a058cac1'
+    'mgnl:created': 2025-12-23T05:36:18.501+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T05:36:18.501+08:00
+    'mgnl:lastModifiedBy': 'superuser'

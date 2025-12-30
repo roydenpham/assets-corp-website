@@ -1,0 +1,26 @@
+'Brokerage-services---Retail-Online':
+  'description': '<p><!--StartFragment --></p>
+
+
+    <p>UOB Kay Hian trading platforms feature robust security and offer multi-product
+    investment opportunities in multiple markets.</p>
+
+    '
+  'headerBgColor': 'redGradient'
+  'headerType': 'a2'
+  'image': 'jcr:7c494336-b250-4469-bf06-2778a791e67d'
+  'jcr:primaryType': 'mt:headerA2'
+  'jcr:uuid': '8d776510-33e7-40e5-a966-2733a02a6032'
+  'mgnl:created': 2025-12-23T12:26:09.686+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T12:26:09.686+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Brokerage services - Retail Online'
+  'title': 'Invest online with Utrade via app and desktop'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'ab2b2801-10e8-44e8-9b38-59868d3fe808'
+    'mgnl:created': 2025-12-23T12:26:09.700+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T12:26:09.700+08:00
+    'mgnl:lastModifiedBy': 'superuser'

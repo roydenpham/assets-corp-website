@@ -1,0 +1,30 @@
+'Independent-financial-advisory--IFA-':
+  'description': '<p><!--StartFragment --></p>
+
+
+    <p>A partnership with UOB Kay Hian offers financial advisors all the resources
+    and support necessary to enhance their offering.</p>
+
+
+    <p>&nbsp;</p>
+
+    '
+  'headerBgColor': 'redGradient'
+  'headerType': 'a2'
+  'image': 'jcr:a8b1ac48-1674-478c-aa13-952c1e430826'
+  'jcr:primaryType': 'mt:headerA2'
+  'jcr:uuid': 'b41d39a2-938f-431d-9ecb-4a5cc87ff395'
+  'mgnl:created': 2025-12-23T12:41:07.154+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T12:41:07.154+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Independent financial advisory (IFA)'
+  'title': 'Elevate your advisory practice'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'bcbbc5f2-27a3-4607-99a1-db0954200b81'
+    'label': 'Message us now →'
+    'mgnl:created': 2025-12-23T12:41:07.164+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T12:41:07.164+08:00
+    'mgnl:lastModifiedBy': 'superuser'

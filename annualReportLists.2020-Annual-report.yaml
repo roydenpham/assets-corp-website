@@ -1,0 +1,11 @@
+'2020-Annual-report':
+  'coverImage': 'jcr:818bee05-6f61-4063-8116-64ceb7b6a553'
+  'jcr:primaryType': 'mt:annualReportList'
+  'jcr:uuid': 'e7b3a892-f9fe-4470-8ac3-a3e19f6e7122'
+  'label': 'View'
+  'mgnl:created': 2025-12-23T04:14:59.537+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastModified': 2025-12-23T04:14:59.537+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': '2020 Annual report'
+  'title': '2020 Annual report'
