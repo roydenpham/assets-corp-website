@@ -1,0 +1,110 @@
+'Private-wealth-management-1':
+  'description': 'Private wealth management'
+  'disclaimer': '54480001-fc0c-4e54-8df6-93087dab5b30'
+  'filterI': '4812572f-b7c5-4040-bbd6-34de9cbcde63'
+  'headerA2': '9c17441d-c3bf-45b9-b9e8-d8ee72645b7f'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:research-private'
+  'jcr:uuid': '86371e90-52b2-445f-8880-538ccc734095'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-20T18:54:23.495+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2025-12-31T10:09:31.494+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2025-12-31T10:09:31.009+08:00
+  'mgnl:lastModified': 2025-12-23T13:58:34.388+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Private wealth management 1'
+  'title': 'Private wealth management'
+  'specialMenu':
+    'jcr:uuid': 'e5970fa1-ac39-4de9-b9c4-ed8dc31f61f9'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-20T18:54:23.503+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2025-12-31T10:09:31.494+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:58:34.386+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'isActive': true
+      'jcr:uuid': '6845f1b2-e443-4a02-b4b8-d2b5e81fa400'
+      'menuItems': 'aeb4971a-c3d8-4fb0-968b-f48facef4ddc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-20T18:54:23.507+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2025-12-31T10:09:31.495+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T13:58:34.385+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '1':
+      'isActive': false
+      'jcr:uuid': '4b1f4588-b9e2-4826-ab86-168b7002463f'
+      'menuItems': '3e75fc59-a5f6-4aa1-ab2a-41a3922e32db'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-20T18:54:23.508+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2025-12-31T10:09:31.496+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T13:58:34.385+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '2':
+      'isActive': false
+      'jcr:uuid': '64280d97-33f3-4421-84ca-c58d3b36e97a'
+      'menuItems': '6765ee00-0a73-4718-a24d-e07b108b41a6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-20T18:54:23.509+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2025-12-31T10:09:31.496+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T13:58:34.386+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '3':
+      'isActive': false
+      'jcr:uuid': 'f026cd10-5325-4059-a382-e8cb23912eeb'
+      'menuItems': '51fb53b6-e453-4257-8718-8daa8dbb53ef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-20T18:54:23.510+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2025-12-31T10:09:31.497+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-23T13:58:34.386+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['73a61c24-d5b6-4aec-b42f-64f3e2ff14db', 'de8caaf0-7770-4519-8d42-5577334f60b8',
+      '4db98223-5e34-49ff-a3aa-5c7047b24650']
+    'isBackground': true
+    'jcr:uuid': '2cbf0d48-452e-477a-948f-3de07d7c736c'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-20T18:54:23.515+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2025-12-31T10:09:31.497+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:58:34.387+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Authoritative perspectives from our CIO on global trends, strategy,
+      and asset allocation shaping institutional and high net worth investment decisions.'
+  'listD3List':
+    'd3Items': ['6289b179-5406-4cbb-a12c-e4b1da814a89', '15d45409-68f7-4c08-917a-d1e84c2405c0',
+      'a5497fba-e2a5-44ac-8ccd-ceb7b958695f', '32122a95-a568-45fc-b182-7394642958ba',
+      '222d1b3a-7246-47a7-9a8b-c0c4da70953f', '81e793cd-223d-458e-9f65-a9abf53bae72']
+    'jcr:uuid': 'cb9736d7-8e33-4253-baf5-4ac13a09c968'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-20T18:54:23.519+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2025-12-31T10:09:31.498+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:58:34.388+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Expert data-driven insights and analysis'
+  'featureC5List':
+    'c5Items': ['b72494ff-3b3d-4582-a1af-c8a7c3ef27f6', 'bf612357-ed5b-4017-9e8b-c0c8a393ea01',
+      'bf612357-ed5b-4017-9e8b-c0c8a393ea01']
+    'jcr:uuid': '0bd2f9a7-1a17-40b5-a9a5-f902a6f8d9b2'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-20T18:54:23.521+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2025-12-31T10:09:31.498+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T13:58:34.388+08:00
+    'mgnl:lastModifiedBy': 'superuser'
