@@ -1,0 +1,30 @@
+'Careers':
+  'contentB1': 'f5ed2f43-a1a9-4a20-a11c-e046ef09d538'
+  'description': 'Careers'
+  'headerA2': 'dc7be8d6-39f3-4b60-996c-d8bbe0a03d24'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:aboutCareers'
+  'jcr:uuid': 'cad1cb53-fbf7-478f-b575-1684d4beef35'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:27:13.888+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2025-12-31T10:14:18.897+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2025-12-31T10:14:18.594+08:00
+  'mgnl:lastModified': 2025-12-28T18:54:56.827+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Careers'
+  'title': 'Careers'
+  'listFeatureC6':
+    'c6Items': ['9bc17ab0-ead9-4528-a6d6-0503edd464e3', '6dff72c5-59ec-418e-93e1-0fde64e8349a',
+      '993a0390-00f8-4555-84a3-9d5e8122f3cd', 'bca65c47-898e-4113-9c38-51cfca242c1c',
+      '7465c868-24a6-4b3b-8d25-0192ca44b4ab']
+    'jcr:uuid': '4440a087-c62f-4443-a596-95c0875457ee'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T02:27:13.890+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2025-12-31T10:14:18.898+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-28T18:54:56.827+08:00
+    'mgnl:lastModifiedBy': 'superuser'
