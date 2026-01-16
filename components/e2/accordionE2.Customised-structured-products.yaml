@@ -1,0 +1,26 @@
+'Customised-structured-products':
+  'description': "<p><!--StartFragment --></p>\n\n<ul>\n\t<li>\n\t<p><strong>Structured\
+    \ notes:</strong> Partner with global best-in-class investment banks. Product\
+    \ can be tailored to meet your needs, such as underlying instruments, tenor and\
+    \ payoff structure. Available types include Equity linked note (ELN), Reverse\
+    \ equity linked note (RELN), Daily range accrual note, Fixed coupon note, and\
+    \ Autocallable booster note.</p>\n\t</li>\n\t<li>\n\t<p><strong>Accrual forward\
+    \ contracts:</strong> Buy (accumulator) / Sell (decumulator) specific equities\
+    \ / currencies at more favourable prices than the market during a predefined period.\
+    \ Leverage can be embedded in products.</p>\n\t</li>\n\t<li>\n\t<p><strong>OTC\
+    \ options:</strong> Available types include European / American type call / put,\
+    \ and covered call.</p>\n\t</li>\n</ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': '64a2d1c5-86d6-40ec-951f-c98a2967bf39'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T12:55:42.742+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:10:20.053+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:10:19.765+08:00
+  'mgnl:lastModified': 2025-12-30T16:34:50.071+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Customised structured products'
+  'title': 'Customised structured products'

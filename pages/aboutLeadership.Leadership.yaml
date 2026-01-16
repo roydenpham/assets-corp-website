@@ -1,0 +1,116 @@
+'Leadership':
+  'accordionE3List': ['c38c2e03-be78-4b84-8ddf-094e1dd8593f', '33873216-88c3-4299-8d3f-33c1e330ff20',
+    'b6ddee17-d689-4fc9-aa9c-4c2ae9c5e363', '9c520dd9-54d4-4602-a969-f0f090ed0d8e',
+    '8462a4bb-dc98-447e-a437-dc8281a20c5b', '031631e2-6620-4fb3-8b80-19550e6584e1']
+  'contentB7': '64a94da8-36dc-4284-aafd-99e895d90c1c'
+  'description': 'Leadership'
+  'headerA2': '6b3ba2a7-87cb-4a17-af23-cf19d85fd7ac'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:aboutLeadership'
+  'jcr:uuid': 'd98bac97-f0d8-4706-80ef-0fcfcebcce6d'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T01:49:50.163+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:55:08.034+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.6'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:55:07.438+08:00
+  'mgnl:lastModified': 2026-01-14T12:55:05.288+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Leadership'
+  'title': 'Leadership'
+  'featureC3List':
+    'c3Items': []
+    'jcr:uuid': '92ad6c9a-de56-41ce-af55-ecfb88d8e741'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:49:50.166+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:55:08.034+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:55:05.288+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': '6f7ed3f8-78ba-4604-bc3d-d02689bcd6a5'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:49:50.167+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:55:08.035+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:51:46.951+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'leadershipItems':
+    'jcr:uuid': 'acecf737-fc22-47d4-bd58-3e13244b65df'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-12T03:51:59.229+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:55:08.035+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:55:05.287+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'contentB7': ['27bbf401-5d4e-4112-978e-dd1ce92f5b3e']
+      'e3Item': 'c38c2e03-be78-4b84-8ddf-094e1dd8593f'
+      'jcr:uuid': '9b4ab7db-adf3-4754-8ef1-87dd814046a3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-12T03:51:59.231+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-14T12:55:08.035+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-14T12:55:05.286+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '1':
+      'contentB7': []
+      'e3Item': '33873216-88c3-4299-8d3f-33c1e330ff20'
+      'jcr:uuid': '02b665c1-9d08-4b3a-81df-ba8a1442b3c9'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-12T03:51:59.232+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-14T12:55:08.036+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-14T12:55:05.286+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '2':
+      'contentB7': []
+      'e3Item': 'b6ddee17-d689-4fc9-aa9c-4c2ae9c5e363'
+      'jcr:uuid': '5ddc183a-f4f0-4e2e-97ee-b3b56074a1fa'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-12T03:51:59.233+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-14T12:55:08.036+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-14T12:55:05.286+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '3':
+      'contentB7': []
+      'e3Item': '9c520dd9-54d4-4602-a969-f0f090ed0d8e'
+      'jcr:uuid': '04b1cbd8-83fe-4ffc-a730-f5e5944ec5ca'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-12T03:51:59.233+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-14T12:55:08.036+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-14T12:55:05.287+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '4':
+      'contentB7': []
+      'e3Item': '8462a4bb-dc98-447e-a437-dc8281a20c5b'
+      'jcr:uuid': '8f29f63c-77c4-4392-8889-d8cd04e4b1f0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-12T03:51:59.234+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-14T12:55:08.036+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-14T12:55:05.287+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '5':
+      'contentB7': ['a4889c98-d942-43fa-b246-12b4beeb8cb2']
+      'e3Item': '031631e2-6620-4fb3-8b80-19550e6584e1'
+      'jcr:uuid': '6348199e-b3c2-48bb-99b9-f77361dcfab0'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-12T03:51:59.235+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-14T12:55:08.036+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-14T12:55:05.287+08:00
+      'mgnl:lastModifiedBy': 'superuser'

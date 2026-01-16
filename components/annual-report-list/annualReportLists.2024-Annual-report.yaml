@@ -1,0 +1,19 @@
+'2024-Annual-report':
+  'coverImage': 'jcr:aa9ccfe5-646e-4c73-a142-1c153b07c8b4'
+  'href': ' https://ir2.chartnexus.com/uobkh/doc/AR/ar2024.pdf'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:annualReportList'
+  'jcr:uuid': '7a6a857a-51d2-494c-93e6-82d4cf387c07'
+  'label': 'View'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T04:13:34.463+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-16T15:22:31.767+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.5'
+  'mgnl:lastActivatedVersionCreated': 2026-01-16T15:22:31.448+08:00
+  'mgnl:lastModified': 2026-01-16T15:22:28.809+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': '2024 Annual report'
+  'title': '2024 Annual report'
+  'year': '2024'

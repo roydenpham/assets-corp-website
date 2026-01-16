@@ -1,0 +1,34 @@
+'Global-offices':
+  'description': '<p><!--StartFragment -->Global offices</p>
+
+    '
+  'headerA2': '1e162064-1002-4142-9787-49e7b5da2ef2'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:aboutGlobalOffices'
+  'jcr:uuid': 'beaf6f7c-47b2-4b9b-9b06-411fd1e3f89a'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:28:39.649+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:36:52.100+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.7'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:36:51.805+08:00
+  'mgnl:lastModified': 2026-01-14T12:36:50.121+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Global offices'
+  'officeList': ['9ef6d9e7-a137-4401-91ba-f83912814c9c', '203ac1ec-f46a-491b-9bdd-4cd325af066b',
+    '97f2e740-7b2d-41b8-9916-94b21b67b980', 'd8542a21-85c7-4f7f-b17b-a006873d3763',
+    'f2016dad-7321-4cb7-9923-6532aa38e609', '3d515e8b-4fa7-4720-8f24-792d4f222b7f',
+    '23a4b780-84e3-4109-8a55-e6e90f2c5569', '0614c52d-479d-433e-9b21-dfabddaf2ce0',
+    '8fcfd98f-10c7-4df6-accd-a632d06af5aa', 'e5d733c0-84dc-4c24-b23b-53d083b84e51']
+  'title': 'Global offices'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': '45162e9d-5f66-464e-9c2d-9cfaeb706383'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T02:28:39.652+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:36:52.100+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:53:21.754+08:00
+    'mgnl:lastModifiedBy': 'superuser'

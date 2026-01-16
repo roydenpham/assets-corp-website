@@ -1,0 +1,28 @@
+'Invest-globally-and-access-xx-exchanges.':
+  'image': 'jcr:7c494336-b250-4469-bf06-2778a791e67d'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentC3'
+  'jcr:uuid': '7d058669-f541-4c07-bc10-5c549dd2aaca'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T12:58:18.436+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:12:10.514+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:12:10.225+08:00
+  'mgnl:lastModified': 2025-12-23T12:12:53.605+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Invest globally and access xx exchanges.'
+  'title': 'Invest globally and access xx exchanges.'
+  'ctaChooser':
+    'href': 'Find out now'
+    'isExternal': true
+    'jcr:uuid': 'ce7e1e46-117e-43b5-8c01-e7d7bf24485e'
+    'label': 'Find out now'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-11T12:58:18.438+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:12:10.515+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-11T12:58:18.438+08:00
+    'mgnl:lastModifiedBy': 'superuser'

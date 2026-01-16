@@ -1,0 +1,59 @@
+'Investment-professionals-benefit-from-teamwork':
+  'description': '<p>Investment decisions are more effective when supported by data,
+    research, trend analysis and insights gained from experience. That&rsquo;s why
+    all professional investors work in teams of career-minded specialists.</p>
+
+
+    <p>Our team of experienced sales specialists is ready to support your investing
+    needs, offering personalised guidance through multiple communication channels.
+    Make them your trusted investment partners with UOB Kay Hian&rsquo;s retail brokerage
+    services.</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB4'
+  'jcr:uuid': 'd6aef147-ea80-4647-b0f2-2996e1b0115c'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T13:06:43.400+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T14:41:24.535+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.7'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T14:41:24.132+08:00
+  'mgnl:lastModified': 2026-01-15T14:41:22.345+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Investment professionals benefit from teamwork'
+  'title': 'Investment professionals benefit from teamwork – you can too'
+  'backgroundImageChooser':
+    'image': 'jcr:c77c9b80-eb78-42c5-8ccb-f960c8b1a62f'
+    'jcr:uuid': 'a2dfacac-f813-414b-a4db-bf4daad00038'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-11T13:06:43.402+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T14:41:24.535+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T09:57:27.258+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'ctaChooser':
+    'ctaText': 'Email us now'
+    'field': 'Email us now '
+    'isExternal': false
+    'jcr:uuid': 'e6760337-044e-488d-9ed2-f844ff3fdcde'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-11T13:06:43.404+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T14:41:24.535+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T14:37:54.637+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'ctaLink':
+      'externalLink': 'https://dulichviet.com.vn/'
+      'internalLink': 'https://dulichviet.com.vn/'
+      'jcr:uuid': '8cb6746f-6d24-449d-b2de-82a535ed5570'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T13:06:43.404+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T14:41:24.536+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T13:06:43.404+08:00
+      'mgnl:lastModifiedBy': 'superuser'

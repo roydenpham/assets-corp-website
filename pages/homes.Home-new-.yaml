@@ -1,0 +1,60 @@
+'Home-new-':
+  'contentB1': '272f01b6-2d40-4a4d-bd10-35047f95defc'
+  'description': 'Home'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:home'
+  'jcr:uuid': '9667e258-04f0-43b3-aecc-4d8222438fc1'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-09T01:07:52.772+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:57:33.196+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.15'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:57:31.711+08:00
+  'mgnl:lastModified': 2026-01-14T12:57:30.049+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Home new '
+  'title': 'Home '
+  'multiMarkets':
+    'jcr:uuid': 'd89fe688-9336-42ba-b4cd-2bc84362d7a9'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-09T01:07:52.775+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:57:33.196+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:57:30.049+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'multimarket': ['ef7a7e75-4e47-4cc3-82a5-76836cf156fe', 'f80a0601-031b-4a64-87db-15faab74cc6f',
+      '7d972fbc-e1bd-4b8d-99f0-51b6d8384837', 'cca561d1-2066-4774-88c9-e7d413b82b15']
+    'title': 'Multi-markets, multi-products, multi-channels'
+  'featureC5List':
+    'c5Items': []
+    'jcr:uuid': '0fd2de16-1b0b-4b99-8412-7eda5dfcaa72'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-09T01:48:42.274+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:57:33.197+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:58:27.667+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': '24f99ca3-2483-4865-a4ed-8173b16aab03'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-09T01:48:42.279+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:57:33.197+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:49:09.881+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'heroList':
+    'heroItems': ['2c7b63dd-0e7a-4b81-a917-1b63abd30ca9']
+    'jcr:uuid': '641d3069-a479-445f-aa0a-df0279d0e69a'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-09T04:20:05.484+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:57:33.198+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:57:30.047+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'video': 'jcr:0c135a41-1376-408f-9a2c-85ed71612382'

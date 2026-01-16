@@ -1,0 +1,17 @@
+'Malaysia':
+  'companies': '<p>Malayan Banking<br>Tenaga Nasional<br>IHH Healthcare<br>Press Metal
+    Aluminium<br>CelcomDigi<br>MISC Bhd</p>'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentC6'
+  'jcr:uuid': '4fa2b8cc-8c36-4eda-9639-b77f9b936df6'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T18:55:14.416+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:12:49.289+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:12:49.037+08:00
+  'mgnl:lastModified': 2025-12-11T18:55:14.416+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Malaysia'
+  'title': 'Malaysia'

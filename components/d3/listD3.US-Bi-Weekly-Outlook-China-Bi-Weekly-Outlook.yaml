@@ -1,0 +1,19 @@
+'US-Bi-Weekly-Outlook-China-Bi-Weekly-Outlook':
+  'description': 'Curated insights on the US, Hong Kong and China markets, including
+    sector trends, potential stock movers and previews to upcoming events'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:listD3'
+  'jcr:uuid': '15d45409-68f7-4c08-917a-d1e84c2405c0'
+  'length': '7-10 pages'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T18:46:06.620+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:18:46.642+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:18:46.340+08:00
+  'mgnl:lastModified': 2025-12-11T18:46:06.620+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'US Bi-Weekly Outlook China Bi-Weekly Outlook'
+  'reportDate': 'Rotating every Tuesday'
+  'reportName': 'US Bi-Weekly Outlook China Bi-Weekly Outlook'

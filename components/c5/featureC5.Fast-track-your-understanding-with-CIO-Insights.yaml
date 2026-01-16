@@ -1,0 +1,28 @@
+'Fast-track-your-understanding-with-CIO-Insights':
+  'description': '<p>Supported by 80+ analysts in key markets, our CIO presents regular
+    reports summarising our house view.&nbsp;       </p>'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC5'
+  'jcr:uuid': '3bae1b46-ae3b-46ad-8e8d-8716fdebd2f2'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-09T01:50:28.704+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:06:53.336+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:06:52.931+08:00
+  'mgnl:lastModified': 2025-12-09T01:50:28.704+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Fast track your understanding with CIO Insights'
+  'title': 'Fast track your understanding with CIO Insights'
+  'ctaChooser':
+    'href': 'research/private-wealth-management'
+    'jcr:uuid': '8e964986-74db-4498-8787-b1e3fe00766e'
+    'label': 'CIO Insights'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-09T01:50:28.715+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:06:53.338+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-09T01:50:28.715+08:00
+    'mgnl:lastModifiedBy': 'superuser'

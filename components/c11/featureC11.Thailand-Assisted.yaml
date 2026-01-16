@@ -1,0 +1,28 @@
+'Thailand-Assisted':
+  'image': 'jcr:98e61f12-2057-4a8c-b9b4-206950452ea2'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC11'
+  'jcr:uuid': '6804fd43-a152-4624-b990-4d19e0dc8948'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T12:05:46.020+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T00:30:38.502+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.4'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T00:30:38.178+08:00
+  'mgnl:lastModified': 2026-01-15T00:30:35.329+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Thailand Assisted'
+  'title': 'Thailand '
+  'ctaChooser':
+    'href': 'https://utrade.co.th'
+    'isExternal': true
+    'jcr:uuid': 'dfabc49f-55fb-406a-8ee2-dd461e01b297'
+    'label': 'View website'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-23T12:05:46.027+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:30:38.502+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:30:35.329+08:00
+    'mgnl:lastModifiedBy': 'superuser'

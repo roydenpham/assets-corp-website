@@ -1,0 +1,24 @@
+'Margin---leverage-financing':
+  'description': '<p><!--StartFragment -->Unlock liquidity for your clients without
+    disrupting their long-term positions.</p>
+
+
+    <p>We provide competitive margin financing and portfolio leveraging facilities.
+    This empowers your advisors to enhance yields or manage client cashflow needs
+    efficiently, backed by the strong balance sheet of UOB Kay Hian.</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': '2e3e0afb-6481-400e-9bc5-1fbe09bca71e'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-30T16:27:26.470+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:11:48.061+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:11:47.713+08:00
+  'mgnl:lastModified': 2025-12-30T16:27:26.470+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Margin & leverage financing'
+  'title': 'Margin & leverage financing'

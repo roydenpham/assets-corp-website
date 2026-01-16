@@ -1,0 +1,67 @@
+'Partnership-External':
+  'contentB3List': 'e651ebb8-88d9-46f1-be53-91e42a26e689'
+  'contentB7': 'bfa76663-de35-42a1-b24e-7c085a80183f'
+  'headerA2': '9e8b6805-4ec1-4c5a-9446-df9ffde45b8c'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:partnershipExternal'
+  'jcr:uuid': '7370b3fe-2b90-4406-bd21-72154d299ac4'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T11:26:34.152+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T00:43:48.529+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.3'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T00:43:48.136+08:00
+  'mgnl:lastModified': 2026-01-15T00:43:46.676+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Partnership External'
+  'title': 'Partnership External'
+  'accordionE2List':
+    'description': '<p><!--StartFragment -->In addition to managing assets, we cultivate
+      enduring partnerships across generations.</p>
+
+      '
+    'e2Items': ['c10166d0-cc6a-4633-ab8e-fd01695fb791', 'a9a5ccc1-26d0-4dc0-9d9d-bbd015d807b0',
+      'fb718d50-e62e-4617-bff0-6c5865f3fdac', '3647a065-a7eb-4087-ba21-a8d52dd97a60',
+      '37486e08-2d94-4a89-a4d8-cf2437ecaef9']
+    'jcr:uuid': '0158a154-034e-4a41-9365-d6b1e3716f47'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:26:34.157+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:43:48.530+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:43:46.661+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Trust, discretion and disciplined stewardship'
+  'imageComponent':
+    'image': ['jcr:38831f84-2bb9-4ae2-91b4-5fd22e4dddd1', 'jcr:d6577b4e-2373-421d-96d4-182d94fd3b46',
+      'jcr:ed76ae59-57f4-4012-a1b4-758fddcbe9de']
+    'jcr:uuid': '9b8afc51-c91f-4069-91c1-e7a42b37f8e6'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:26:34.160+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:43:48.530+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:43:46.676+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Partnered banks'
+  'contentC3List':
+    'c3Items': []
+    'jcr:uuid': '2980721c-e77d-48ef-9b65-5497d06f282c'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:26:34.176+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:43:48.530+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:48:04.371+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': 'cf5c3266-482f-4cbf-9b47-5e7643d6e80f'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:26:34.178+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:43:48.531+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:50:54.959+08:00
+    'mgnl:lastModifiedBy': 'superuser'

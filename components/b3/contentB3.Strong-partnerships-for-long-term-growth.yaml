@@ -1,0 +1,147 @@
+'Strong-partnerships-for-long-term-growth':
+  'description': 'Our relationships with major global institutions and leading organisations
+    are built on a solid foundation offering strength and stability:'
+  'divider': false
+  'itemText': "<ul>\n\t<li><!--StartFragment --><strong>Over 100 years in APAC. A\
+    \ proven track record.</strong></li>\n\t<li><!--StartFragment --><strong>Listed\
+    \ in Singapore and Thailand. SGX U10, SET UOBKH</strong></li>\n\t<li><!--StartFragment\
+    \ --><strong>3,200+ professionals worldwide working in experienced, disciplined\
+    \ teams</strong></li>\n\t<li><!--StartFragment --><strong>80+ branches globally,\
+    \ including APAC, Greater China, UK and North America</strong></li>\n\t<li><!--StartFragment\
+    \ --><strong>80+ research analysts in key markets for on-the-ground insights</strong></li>\n\
+    \t<li><!--StartFragment --><strong>Multi-market, multi-channel access in five\
+    \ core APAC markets</strong></li>\n\t<li><!--StartFragment --><strong>Integrated\
+    \ services spanning retail brokerage, wealth management and corporate finance</strong></li>\n\
+    \t<li><!--StartFragment --><strong>In-house research drives a clear house view,\
+    \ decisions informed by data</strong></li>\n\t<li><!--StartFragment --><strong>Values-led\
+    \ culture: we are honourable, enterprising, united and committed</strong></li>\n\
+    \t<li><!--StartFragment --><strong>Medium length section heading goes here</strong></li>\n\
+    </ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB3'
+  'jcr:uuid': 'd4b59216-ffbe-4798-9db4-77fd49c7f8ad'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T16:49:41.779+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:08:50.793+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:08:50.216+08:00
+  'mgnl:lastModified': 2025-12-29T02:48:08.307+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Strong partnerships for long-term growth'
+  'title': 'Strong partnerships for long-term growth'
+  'listItems':
+    'jcr:uuid': '73415c2f-9d19-4a77-b4d5-9009e5c07c3e'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-11T16:49:41.796+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:08:50.793+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'itemText': 'Over 100 years in APAC. A proven track record.'
+      'jcr:uuid': '1763f7f3-58d2-4f3b-be90-f8216bcb3cd5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:49:41.796+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:50.794+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '1':
+      'itemText': 'Listed in Singapore and Thailand. SGX U10, SET UOBKH'
+      'jcr:uuid': '925d724a-7364-4145-af09-db3629729e68'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:49:41.796+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:50.795+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '2':
+      'itemText': '3,200+ professionals worldwide working in experienced, disciplined
+        teams'
+      'jcr:uuid': '09725a95-f0e3-40cc-9bd0-be8ebaf7d51f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:49:41.796+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:50.795+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '3':
+      'itemText': '80+ branches globally, including APAC, Greater China, UK and North
+        America'
+      'jcr:uuid': 'a6b32eb0-c6b9-490b-a39b-efe2f8d3c679'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:49:41.796+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:50.795+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '4':
+      'itemText': '80+ research analysts in key markets for on-the-ground insights'
+      'jcr:uuid': '9d309374-125a-4c17-838e-e3a35fecf697'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:49:41.796+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:50.796+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '5':
+      'itemText': 'Multi-market, multi-channel access in five core APAC markets'
+      'jcr:uuid': '504578da-e04d-4ca2-bdde-aa5dd3d95863'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:49:41.796+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:50.796+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '6':
+      'itemText': 'Integrated services spanning retail brokerage, wealth management
+        and corporate finance'
+      'jcr:uuid': 'dc750f37-b4d1-4d70-930b-e1fc5e2d84d6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:49:41.796+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:50.796+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '7':
+      'itemText': 'In-house research drives a clear house view, decisions informed
+        by data'
+      'jcr:uuid': 'a6425158-5139-4cfa-a212-0d6ef6f31607'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:49:41.796+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:50.797+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '8':
+      'itemText': 'Values-led culture: we are honourable, enterprising, united and
+        committed'
+      'jcr:uuid': '6b582220-1635-4235-bd61-d45c4cdaaaf8'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:49:41.796+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:50.797+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:49:41.796+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': '14cf245e-33da-469e-a3c9-adf37fa9ebcd'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-29T02:48:08.307+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:08:50.797+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-29T02:48:08.307+08:00
+    'mgnl:lastModifiedBy': 'superuser'

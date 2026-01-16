@@ -1,0 +1,95 @@
+'Research-Major-Markets':
+  'filterI': '4812572f-b7c5-4040-bbd6-34de9cbcde63'
+  'headerA2': 'af19878a-c28b-4d49-bcc6-d5eb3a9bdd4e'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:researchMajorMarkets'
+  'jcr:uuid': 'ce2bac0c-a561-4cd6-bacb-ef3074a7df06'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T12:02:02.684+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-12T23:54:55.816+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-12T23:54:55.363+08:00
+  'mgnl:lastModified': 2026-01-12T23:54:53.757+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Research Major Markets'
+  'title': 'Research Major Markets'
+  'specialMenu':
+    'jcr:uuid': 'cd41b9ce-852c-43d1-a7c4-dd07dcc17324'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:02:02.688+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:55.816+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:54:53.753+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'isActive': false
+      'jcr:uuid': '8f1adcb9-2b29-4bbe-8365-a9af3da82a4d'
+      'menuItems': 'aeb4971a-c3d8-4fb0-968b-f48facef4ddc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:02:02.688+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:55.817+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:54:53.752+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '1':
+      'isActive': true
+      'jcr:uuid': '6a32bdc6-9ce4-4ae6-81a3-3524f31dd162'
+      'menuItems': '3e75fc59-a5f6-4aa1-ab2a-41a3922e32db'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:02:02.689+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:55.817+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:54:53.753+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '2':
+      'isActive': false
+      'jcr:uuid': 'f9b3ceeb-936e-49da-bcfc-696c84226a3d'
+      'menuItems': '6765ee00-0a73-4718-a24d-e07b108b41a6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:02:02.690+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:55.818+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:54:53.753+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '3':
+      'isActive': false
+      'jcr:uuid': '585d5a61-6feb-4bed-9a0e-add26c00e7ca'
+      'menuItems': '51fb53b6-e453-4257-8718-8daa8dbb53ef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:02:02.691+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:55.818+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:54:53.753+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['524da5ed-b229-44e9-985a-d4be142bf3cd', 'd5d718e5-b9bc-4988-b8c9-796239338b26',
+      '41af7f4a-812c-41e2-9df1-1ec333db9f4e']
+    'isBackground': true
+    'jcr:uuid': '676db99b-9c3b-46e7-b461-c86101f5d796'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:02:02.695+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:55.818+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:54:53.755+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'In an ever-changing multi-polar world, our on-the-ground analysis across
+      USA, ASEAN and Greater China delivers clarity on macro drivers, policy shifts,
+      and capital flows.'
+  'featureC5List':
+    'c5Items': ['1cd12d0e-8908-4503-bbde-ab2bae23439a', 'bf612357-ed5b-4017-9e8b-c0c8a393ea01']
+    'jcr:uuid': '001a25f6-e129-46b9-a95b-fd738b9c342a'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:02:02.696+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:55.819+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:54:53.757+08:00
+    'mgnl:lastModifiedBy': 'superuser'

@@ -1,0 +1,40 @@
+'Global-asset-allocation-strategy':
+  'description': '<p>Coverage includes equities, fixed income, commodities, currencies.
+    You get tactical product recommendations when special investment opportunities
+    arise.</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentC4'
+  'jcr:uuid': 'cceb2ffe-2d66-4918-a9f3-ddcb858512d2'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T18:22:01.500+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T15:17:39.960+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T15:17:39.580+08:00
+  'mgnl:lastModified': 2026-01-14T15:17:37.663+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Global asset allocation strategy'
+  'title': 'Global asset allocation strategy'
+  'imageChooser':
+    'image': 'jcr:be740363-2961-499a-8017-5b3e214f0ac9'
+    'jcr:uuid': 'dd515f99-b3a3-43d0-bbe9-d4d0e588f873'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-11T18:22:01.502+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T15:17:39.960+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T10:03:35.787+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'a174be98-12e0-43a1-b307-bc82a59495c8'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-11T18:22:01.503+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T15:17:39.960+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T15:17:37.663+08:00
+    'mgnl:lastModifiedBy': 'superuser'

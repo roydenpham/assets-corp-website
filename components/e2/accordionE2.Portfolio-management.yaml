@@ -1,0 +1,20 @@
+'Portfolio-management':
+  'description': "<p><!--StartFragment --></p>\n\n<ul>\n\t<li>\n\t<p>Construction\
+    \ of diversified, risk-adjusted investment portfolios</p>\n\t</li>\n\t<li>\n\t\
+    <p>Strategic and tactical asset allocation</p>\n\t</li>\n\t<li>\n\t<p>Ongoing\
+    \ monitoring and rebalancing</p>\n\t</li>\n\t<li>\n\t<p>Access to global investment\
+    \ opportunities and institutional-grade research</p>\n\t</li>\n</ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': 'c10166d0-cc6a-4633-ab8e-fd01695fb791'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-30T16:04:34.994+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:11:22.985+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:11:22.635+08:00
+  'mgnl:lastModified': 2025-12-30T16:04:34.994+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Portfolio management'
+  'title': 'Portfolio management'

@@ -1,0 +1,19 @@
+'2021-Annual-report':
+  'coverImage': 'jcr:d781fbc9-d312-4b60-a264-4fd12abf852b'
+  'href': 'https://ir2.chartnexus.com/uobkh/doc/AR/ar2021.pdf'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:annualReportList'
+  'jcr:uuid': '4198a6a1-ec1b-4b76-b174-5894ac120595'
+  'label': 'View'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T04:14:39.926+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-16T15:23:28.372+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.4'
+  'mgnl:lastActivatedVersionCreated': 2026-01-16T15:23:28.077+08:00
+  'mgnl:lastModified': 2026-01-16T15:23:26.234+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': '2021 Annual report'
+  'title': '2021 Annual report'
+  'year': '2021'

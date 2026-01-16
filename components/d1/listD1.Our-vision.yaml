@@ -1,0 +1,19 @@
+'Our-vision':
+  'description': '<p><!--StartFragment -->To be the trusted partner of people and
+    organisations seeking secure financial futures.</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:listD1'
+  'jcr:uuid': '34b42ac7-0816-42df-85cf-668d58f44031'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-13T10:57:36.316+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-13T10:57:39.447+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2026-01-13T10:57:39.019+08:00
+  'mgnl:lastModified': 2026-01-13T10:57:36.316+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Our vision'
+  'title': 'Our vision'

@@ -1,0 +1,38 @@
+'Canada':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:officeItem'
+  'jcr:uuid': '203ac1ec-f46a-491b-9bdd-4cd325af066b'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-12T10:30:42.746+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:29:23.048+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:29:22.741+08:00
+  'mgnl:lastModified': 2026-01-14T12:29:20.808+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Canada'
+  'phoneNumber': ' (1-416) 644 6580'
+  'title': 'UOB Kay Hian (U.S.) Inc. - Toronto Branch'
+  'value': 'Canada'
+  'address':
+    'areas': []
+    'jcr:uuid': 'a06f9d2e-1268-4f27-b67d-7681312c6ccb'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-12T10:30:42.749+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:29:23.048+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:29:20.808+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'regions': []
+    'streets': []
+    'text': '<p>Suite 912, Munich Re Centre,<br />
+
+      390 Bay Street,<br />
+
+      Toronto, Ontario, M5H 2Y2<br />
+
+      Canada</p>
+
+      '

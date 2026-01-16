@@ -1,0 +1,32 @@
+'Prime-Beneficiary':
+  'description': '<p><!--StartFragment -->Despite an uncertain macro backdrop from
+    US tariffs, we upgrade the sector to...</p>
+
+    '
+  'image': 'jcr:1b7b41d8-6d4d-4db0-963a-09ae7936caa5'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC2'
+  'jcr:uuid': '322ef1a3-95e5-48a6-b850-2ce4e3a50c12'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T13:49:27.856+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T12:13:49.997+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.3'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T12:13:49.758+08:00
+  'mgnl:lastModified': 2026-01-06T12:13:09.433+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Prime Beneficiary'
+  'title': "Prime Beneficiary Of \LA Soft Landing\L"
+  'ctaChooser':
+    'detailPage': '6f1747e7-fac8-4fe1-b8e2-0c1545e37ff0'
+    'isExternal': false
+    'jcr:uuid': '94c5c731-88b2-450d-9e99-5b1b571ee65c'
+    'label': 'Read more'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-23T13:49:27.865+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T12:13:49.998+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-06T12:13:09.433+08:00
+    'mgnl:lastModifiedBy': 'superuser'

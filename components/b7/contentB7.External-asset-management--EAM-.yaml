@@ -1,0 +1,17 @@
+'External-asset-management--EAM-':
+  'content': '<p><!--StartFragment -->We offer significant resources and support</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB7'
+  'jcr:uuid': 'bfa76663-de35-42a1-b24e-7c085a80183f'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T12:36:42.670+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:18:20.959+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:18:20.743+08:00
+  'mgnl:lastModified': 2025-12-23T12:36:42.670+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'External asset management (EAM)'

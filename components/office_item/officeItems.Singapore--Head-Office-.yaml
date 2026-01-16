@@ -1,0 +1,34 @@
+'Singapore--Head-Office-':
+  'email': 'contact@utrade.com.sg'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:officeItem'
+  'jcr:uuid': '9ef6d9e7-a137-4401-91ba-f83912814c9c'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:29:33.043+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:25:09.854+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.7'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:25:09.525+08:00
+  'mgnl:lastModified': 2026-01-14T12:25:07.332+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Singapore (Head Office)'
+  'phoneNumber': ' (65) 6535 6868'
+  'title': 'UOB Kay Hian Pte Ltd'
+  'value': 'Singapore'
+  'address':
+    'areas': []
+    'jcr:uuid': 'da24db0f-d8d3-43a2-b84b-a9f8f60d5078'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T02:29:33.045+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:25:09.854+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:25:07.332+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'regions': []
+    'streets': ['Hong Kong']
+    'text': '<p><!--StartFragment -->83 Clemenceau Avenue, #10-01 UE Square, Singapore
+      239920</p>
+
+      '

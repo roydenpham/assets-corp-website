@@ -1,0 +1,37 @@
+'Deep-corporate-access-and-investor-connectivity':
+  'description': 'We connect institutional investors with leading corporates through
+    curated access and tailored engagement programmes, supported by our strong regional
+    presence and integrated capital markets expertise.'
+  'divider': true
+  'itemText': "<ul>\n\t<li><!--StartFragment --><strong>Direct access to senior management\
+    \ teams through curated corporate access and non-deal roadshows</strong></li>\n\
+    \t<li><!--StartFragment --><strong>Tailor-made visits to Asia listed corporates\
+    \ for our privileged institutional investors across Asia, Europe and North America</strong></li>\n\
+    \t<li><!--StartFragment --><strong>Integrated support from institutional sales,\
+    \ research, and ECM teams</strong></li>\n\t<li><!--StartFragment --><strong>Strong\
+    \ relationships with leading listed companies across major regional and global\
+    \ indices</strong></li>\n</ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB3'
+  'jcr:uuid': '42c4e31a-635c-4f46-a57d-5ae912895190'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-12T03:42:28.941+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T00:37:27.993+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T00:37:27.695+08:00
+  'mgnl:lastModified': 2026-01-15T00:37:25.512+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Deep corporate access and investor connectivity'
+  'title': 'Deep corporate access and investor connectivity'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'c7881ced-3fa0-492d-ba5a-f4930ec62136'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-12T03:42:28.944+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:37:27.993+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:37:25.512+08:00
+    'mgnl:lastModifiedBy': 'superuser'

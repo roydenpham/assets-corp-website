@@ -1,0 +1,27 @@
+'Hong-Kong':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC6'
+  'jcr:uuid': '6dff72c5-59ec-418e-93e1-0fde64e8349a'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:25:58.458+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T19:02:30.681+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.3'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T19:02:30.371+08:00
+  'mgnl:lastModified': 2026-01-15T19:02:28.622+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Hong Kong'
+  'title': 'Hong Kong'
+  'ctaChooser':
+    'href': 'https://www.utrade.com.hk/en/Career'
+    'isExternal': true
+    'jcr:uuid': '41445ae5-d304-4171-a25d-74a511254da0'
+    'label': 'View website'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T02:25:58.460+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T19:02:30.682+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T19:02:28.622+08:00
+    'mgnl:lastModifiedBy': 'superuser'

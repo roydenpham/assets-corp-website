@@ -1,0 +1,58 @@
+'Working-together-in-your-interests':
+  'divider': true
+  'itemText': '<p><!--StartFragment --></p>
+
+
+    <p><strong>Flexibility</strong><br />
+
+    We provide adaptable EAM solutions suited to your changing financial goals and
+    circumstances.</p>
+
+
+    <p><!--StartFragment --><strong>Customisation</strong><br />
+
+    Our strategy is tailored to your unique objectives &ndash; from investment structuring
+    to legacy planning.&nbsp;</p>
+
+
+    <p><!--StartFragment --><strong>Partnerships</strong><br />
+
+    We work with our partners to deliver comprehensive EAM and private wealth management
+    solutions.</p>
+
+
+    <p><!--StartFragment --><strong>Financing</strong><br />
+
+    We offer bespoke financing solutions to support your overall wealth strategy.&nbsp;&nbsp;</p>
+
+
+    <p><!--StartFragment --><strong>Local expertise</strong><br />
+
+    Our on-the-ground researchers bring a deep understanding of regional markets.
+    The advice we offer is both relevant, actionable and informed by deep experience.</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB3'
+  'jcr:uuid': 'e651ebb8-88d9-46f1-be53-91e42a26e689'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T01:07:20.205+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T00:45:23.066+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.3'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T00:45:22.780+08:00
+  'mgnl:lastModified': 2026-01-15T00:44:27.385+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Working together in your interests'
+  'title': 'Working together in your interests'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': '246ef2bf-fa00-4111-88af-209383af4166'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:07:20.207+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:45:23.066+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-21T01:07:20.207+08:00
+    'mgnl:lastModifiedBy': 'superuser'

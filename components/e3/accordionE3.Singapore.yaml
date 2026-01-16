@@ -1,0 +1,281 @@
+'Singapore':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE3'
+  'jcr:uuid': '33873216-88c3-4299-8d3f-33c1e330ff20'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:16:21.925+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-13T12:15:01.171+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-13T12:15:00.436+08:00
+  'mgnl:lastModified': 2026-01-13T12:14:58.036+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Singapore'
+  'pretext': 'Our senior management team directs our daily operations, spearheading
+    our efforts to grow our operations, expand our footprint and push for excellence
+    in all areas of our businesses.'
+  'title': 'Singapore'
+  'accordionItem':
+    'jcr:uuid': 'a768954e-2d32-4e1b-a019-9d9a2a3e0f8d'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T02:16:21.928+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-13T12:15:01.171+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-13T12:14:58.036+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Lee holds a Bachelor of Business (Accountancy) degree and is a committee
+        member of CPA Australia. He joined UOB Kay Hian Private Limited as part of
+        senior management in 2019.</p>
+
+
+        <p>He has over 36 years of experience in the securities and investment banking
+        industry across South East Asia and North Asia. Prior to joining UOB Kay Hian,
+        he held senior origination roles at global banks, including Head of Coverage
+        &ndash; Investment Banking APAC and Head of M&amp;A and Sectors APAC.</p>
+
+
+        <p>He currently sits on committees overseeing regional and structured credit,
+        corporate finance and capital markets, in addition to the Hong Kong and Singapore
+        management committees.</p>
+
+        '
+      'description': 'Senior Executive Director'
+      'jcr:uuid': '2ee0dc23-0e12-4bdf-a2a9-a09bce67d378'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:16:21.928+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:15:01.172+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:14:58.033+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Wilhem Lee'
+    '1':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Lim holds a Bachelor of Science degree from the Stern School of Business,
+        New York University. He was appointed Executive Director of UOB Kay Hian Private
+        Limited in June 2005 and Senior Executive Director on 1 January 2013.</p>
+
+
+        <p>He is a member of the Group Executive Committee. In addition to managing
+        the Singapore operations, he oversees the regional business in North Asia.
+        Prior to joining UOB Kay Hian, he gained extensive experience managing the
+        securities business in Hong Kong.</p>
+
+        '
+      'description': 'Senior Executive Director'
+      'jcr:uuid': 'e623785c-2612-44f9-970e-7c091e02cc03'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:16:21.928+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:15:01.172+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:14:58.033+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Lim Seng Bee'
+    '2':
+      'content': '<p><!--StartFragment -->Ms Oh holds a Bachelor of Accountancy (Honours)
+        degree from Nanyang Technological University, Singapore. She joined UOB Kay
+        Hian Private Limited in 2001 and was appointed Executive Director in 2013.</p>
+
+
+        <p>She became Senior Executive Director on 1 July 2021. Ms Oh is involved
+        in the general management of the Singapore office and oversees regional operations.
+        Prior to joining UOB Kay Hian, she worked at an international public accounting
+        firm.</p>
+
+        '
+      'description': 'Senior Executive Director'
+      'jcr:uuid': '105cb242-9648-411c-bc2f-486728ac720f'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:16:21.929+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:15:01.173+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:14:58.033+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Ms Oh Whee Mian'
+    '3':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Soh holds a Bachelor of Accountancy (First Class Honours) from Nanyang
+        Technological University, Singapore. He joined UOB Kay Hian Private Limited
+        as part of senior management in June 2024.</p>
+
+
+        <p>He is involved in the management and development of the Group&#39;s private
+        wealth management business. Mr Soh has over 26 years of experience in investment
+        banking across South East Asia.</p>
+
+
+        <p>Before joining UOB Kay Hian, he held senior roles including Senior Advisor
+        at Houlihan Lokey; Managing Director and Head, Advisory for South-East Asia
+        at HSBC; Managing Director and Head of Investment Banking at Rothschild Singapore;
+        CEO and Head of Investment Banking at BNP Paribas Peregrine Singapore; and
+        Director of Corporate Finance at ING Bank N.V.</p>
+
+
+        <p>He currently serves as an Independent Director of Pan-United Corporation
+        Ltd and Cortina Holdings Limited. He was previously an Independent Non-Executive
+        Director of Xinghua Port Holdings Ltd.</p>
+
+        '
+      'description': 'Senior Executive Director'
+      'jcr:uuid': '0091edab-528e-49fa-bb8f-f9ad5af708ec'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:16:21.929+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:15:01.173+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:14:58.034+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Soh Ee Beng'
+    '4':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Kok holds a Bachelor of Business Administration from the National University
+        of Singapore. He has been in the stockbroking industry since 1989 and joined
+        UOB Kay Hian Private Limited in February 2012 as Executive Director.</p>
+
+
+        <p>He is involved in the management and development of the Group&rsquo;s retail
+        business.</p>
+
+        '
+      'description': 'Executive Director'
+      'jcr:uuid': 'd07137fb-c563-4fb6-be6c-6f99d5087047'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:16:21.930+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:15:01.173+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:14:58.034+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Kok Heng Loong'
+    '5':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Lee holds a Master of Science in Accounting and Finance from the London
+        School of Economics and Political Science, United Kingdom.</p>
+
+
+        <p>He joined UOB Kay Hian Private Limited in 2003 and was appointed Executive
+        Director in 2017. He is responsible for financing services, credit risk management
+        and structured finance transactions.</p>
+
+
+        <p>Before joining UOB Kay Hian, he worked for a global banking group in Singapore.</p>
+
+        '
+      'description': 'Executive Director'
+      'jcr:uuid': '731e26b5-f3a3-4dcb-a21f-d4969a508190'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:16:21.930+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:15:01.174+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:14:58.035+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Julian Lee'
+    '6':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Ong holds a Master of Science in Molecular Engineering from the Singapore-MIT
+        Alliance. He joined UOB Kay Hian Private Limited as part of senior management
+        in January 2021.</p>
+
+
+        <p>He is involved in general management and serves as Head of Operations for
+        the Group. Mr Ong has experience in exchange operations and process transformation
+        across multiple industries. Prior to joining UOB Kay Hian, he held leadership
+        roles at global banks and a market infrastructure operator.</p>
+
+        '
+      'description': 'Executive Director'
+      'jcr:uuid': '1f915b88-b787-4ae4-815a-47ac100e558e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:16:21.931+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:15:01.174+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:14:58.035+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Jarod Ong'
+    '7':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Tan holds a Bachelor of Business Administration from the Royal Melbourne
+        Institute of Technology, Australia. He has worked in the stockbroking industry
+        since 1997 and joined UOB Kay Hian Private Limited in February 2013 as Executive
+        Director.</p>
+
+
+        <p>He is involved in strategic planning and the development of the Group&rsquo;s
+        technology platform and online trading business.</p>
+
+        '
+      'description': 'Executive Director'
+      'jcr:uuid': 'cdabf64b-b2ac-445d-8684-b66921360794'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:16:21.931+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:15:01.174+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:14:58.035+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Gary Tan'
+    '8':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p><!--StartFragment --></p>
+
+
+        <p>Mr De Vierno holds a Bachelor of Arts from Dartmouth College, USA. He joined
+        UOB Kay Hian Private Limited as part of senior management in March 2014.</p>
+
+
+        <p>He is responsible for the strategy and development of the Group&rsquo;s
+        private wealth management business, including discretionary portfolio management
+        and advisory solutions.</p>
+
+
+        <p>Mr De Vierno has more than 35 years of experience in global financial markets
+        and asset management. He began his career as an equity arbitrage trader with
+        Cargill Financial Services in the United States and Singapore from 1989 to
+        1997.</p>
+
+
+        <p>He later served as Executive Vice President at Daiwa Securities in Hong
+        Kong and founded Eagle Capital Management (Asia), the Asian office of a US
+        hedge fund. He also established the alternative fund management business at
+        UOB Kay Hian Advisor and led the Singapore office of Wayzata Investment Partners
+        Asia, a private equity fund with assets of about US$7 billion.</p>
+
+
+        <p>He is involved in strategic planning and the development of the Group&rsquo;s
+        technology platform and online trading business.</p>
+
+        '
+      'description': 'Executive Director'
+      'jcr:uuid': '44e91b30-5846-4027-b05b-35a4d6296ebf'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:16:21.931+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:15:01.174+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:14:58.036+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Paul A. De Vierno'

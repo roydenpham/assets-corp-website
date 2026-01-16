@@ -1,0 +1,26 @@
+'Institutional-research---insights':
+  'description': '<p><!--StartFragment -->Support your advice with award-winning intelligence.</p>
+
+
+    <p>Your advisors gain access to UOB Kay Hian&#39;s deep regional research resources,
+    macro-economic outlooks, and sector-specific analysis.</p>
+
+
+    <p>We equip your team with the data they need to build conviction in their investment
+    recommendations.</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': '81268fe5-6be0-44b6-a97d-4e17f64e0222'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T01:11:44.232+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:11:15.249+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:11:14.978+08:00
+  'mgnl:lastModified': 2025-12-30T16:25:41.268+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Institutional research & insights'
+  'title': 'Institutional research & insights'

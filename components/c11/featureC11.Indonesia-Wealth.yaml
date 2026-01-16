@@ -1,0 +1,28 @@
+'Indonesia-Wealth':
+  'image': 'jcr:f2626e88-dd5d-4441-90ca-0f32ca5f4dc5'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC11'
+  'jcr:uuid': 'dfaab7c1-fbbb-4b3f-8201-616fddb36f8a'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T13:00:24.376+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T00:32:56.643+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.4'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T00:32:56.312+08:00
+  'mgnl:lastModified': 2026-01-15T00:32:53.682+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Indonesia Wealth'
+  'title': 'Indonesia '
+  'ctaChooser':
+    'href': 'https://utrade.co.id'
+    'isExternal': true
+    'jcr:uuid': '365d35ae-e390-4fca-95e5-6930c54e767b'
+    'label': 'View website'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-23T13:00:24.383+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:32:56.643+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:32:53.682+08:00
+    'mgnl:lastModifiedBy': 'superuser'

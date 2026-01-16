@@ -1,0 +1,37 @@
+'Investment-professionals':
+  'background': true
+  'description': '<p><!--StartFragment -->Investment decisions are more effective
+    when supported by data, research, trend analysis and insights gained from experience.
+    That&rsquo;s why all professional investors work in teams of career-minded specialists.<br
+    />
+
+    Our team of 3,400 across the world includes brokers on-the-ground ready to support
+    your investing via multiple communication channels. Make them your investment
+    team via UOBKH retail brokerage services.</p>
+
+    '
+  'image': 'jcr:c77c9b80-eb78-42c5-8ccb-f960c8b1a62f'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB1'
+  'jcr:uuid': '7459053c-0c94-443c-93a5-9cfe3b1124a6'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-16T05:16:02.202+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-16T05:19:10.498+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-16T05:19:10.180+08:00
+  'mgnl:lastModified': 2026-01-16T05:19:08.295+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Investment professionals'
+  'title': 'Investment professionals benefit from teamwork – you can too'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'c2de548f-903d-4a2a-9e40-f71e35f57008'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-16T05:16:02.225+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T05:19:10.498+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T05:16:02.225+08:00
+    'mgnl:lastModifiedBy': 'superuser'

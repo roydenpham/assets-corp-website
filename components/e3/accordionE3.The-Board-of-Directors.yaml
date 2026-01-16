@@ -1,0 +1,308 @@
+'The-Board-of-Directors':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE3'
+  'jcr:uuid': 'c38c2e03-be78-4b84-8ddf-094e1dd8593f'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T01:51:45.452+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T18:03:30.438+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.9'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T18:03:29.878+08:00
+  'mgnl:lastModified': 2026-01-15T18:03:27.151+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'The Board of Directors'
+  'subtitle': 'The Board oversees UOB Kay Hian’s activities and provides guidance
+    on its global operations.'
+  'title': 'The Board of Directors'
+  'accordionItem':
+    'jcr:uuid': 'c4d418c1-df1b-4526-93a9-a2f26fb9ae3b'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:51:45.454+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T18:03:30.438+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T18:03:27.151+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Wee holds a Bachelor of Business Administration degree from American
+        University (USA). He joined Kay Hian &amp; Co (Pte) in 1981 as Managing Director
+        and became Chairman of Kay Hian Holdings Limited in 1996.</p>
+
+
+        <p>He has been closely involved in the management and growth of UOB Kay Hian
+        over the last 43 years. In August 2000, when UOB Kay Hian Holdings Limited
+        was incorporated with the merger of Kay Hian Holdings Limited and UOB Securities
+        (Pte) Ltd, Mr Wee was appointed Chairman of UOB Kay Hian Holdings Limited.</p>
+
+
+        <p>Besides his stockbroking involvement in UOB Kay Hian, Mr Wee is also involved
+        in investment and real estate development in the region. He serves on the
+        board of Haw Par Corporation Ltd and UOL Group Limited as a non-executive
+        director. He is also a director of Kheng Leong Co Pte Ltd and Wee Investment
+        Group.</p>
+
+
+        <p>He was appointed Chairman of the Singapore Tourism Board from January 2002
+        to December 2004. He was also the First Vice-President of the Real Estate
+        Developers&rsquo; Association of Singapore (REDAS) from 2005 to 2006 and continued
+        to serve on the committee of REDAS from 2007 to 2010</p>
+
+        '
+      'description': 'Chairman and Managing Director'
+      'jcr:uuid': '17865644-ac80-40bb-b36f-9e5010a78fc1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:51:45.455+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T18:03:30.439+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T18:03:27.149+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Wee Ee-Chao'
+    '1':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Tang holds a Bachelor of Business Administration degree from the University
+        of Hawaii. He began his career in Kay Hian &amp; Co (Pte) as an analyst in
+        1973 and became a director in 1977.</p>
+
+
+        <p>He was appointed Deputy Managing Director of Kay Hian James Capel Pte Ltd
+        in 1990 and of UOB Kay Hian Holdings Limited in 2000 following the merger
+        of UOB Securities (Pte) Ltd and Kay Hian Holdings Limited.</p>
+
+
+        <p>He retired from his position as Deputy Managing Director in December 2007
+        and remained as an Executive Director of UOB Kay Hian Holdings Limited until
+        31 December 2011. He was appointed Non-Executive Director from 1 January 2012
+        and from 1 January 2015 became an Independent Director.</p>
+
+
+        <p>He was redesignated as a Non-Executive Non-Independent Director on 17 October
+        2023 and was appointed as a member of the Nominating and Remuneration Committee
+        on 1 October 2025.</p>
+
+
+        <p>He was a committee member of the Stock Exchange of Singapore from 1986
+        to 1999. He served on the SGX board as an Independent Director from December
+        2002 to September 2007. He was the founder chairman of the Securities Association
+        of Singapore, which represents the interest of securities trading members
+        in Singapore.</p>
+
+        '
+      'description': 'Non-Executive Non-Independent Director'
+      'jcr:uuid': '32daaccd-c7b7-4ee9-8b1d-e4ce5be53fed'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:51:45.455+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T18:03:30.439+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T18:03:27.149+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Tang Wee Loke'
+    '2':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Hui, aged 60, has been an Independent Non-Executive Director since 2
+        May 2025. He is also currently a director of YesAsia Holdings Limited (YesAsia,
+        2209.hk).</p>
+
+
+        <p>Mr Hui previously spent 25 years with Pacific Century Cyber Works Limited
+        (now known as PCCW Limited, 0008.hk), having joined the company&rsquo;s Ventures
+        Unit in 2000 and retiring in 2025.</p>
+
+
+        <p>During his tenure at PCCW, he held several key roles, including Senior
+        Vice President of Business Development, Chief Financial Officer of Cascade
+        Limited (a wholly-owned subsidiary of PCCW), and Head of Financial and Accounting
+        for the International Projects Unit.</p>
+
+
+        <p>Before his time at PCCW, from 1997 to 2000, Mr Hui was a direct investment
+        manager at AIG Investment Corporation (Asia) Ltd, where he managed the China
+        Retail Fund.</p>
+
+
+        <p>Earlier in his career, Mr Hui worked as a systems engineer at Asia Satellite
+        Telecommunications Company Limited and as an associate engineer at IBM.</p>
+
+
+        <p>Mr Hui holds a Bachelor of Science degree with special honours, majoring
+        in Electrical and Computer Engineering from the University of Colorado, United
+        States (1989), and a Master of Business Administration with academic excellence
+        from the University of Illinois, United States (1997).</p>
+
+
+        <p>He has been a member of Tau Beta Pi (engineering honour society) since
+        1988 and Beta Gamma Sigma (business honour society) since 1996.</p>
+
+        '
+      'description': 'Independent Director'
+      'jcr:uuid': '605f9d30-e1b5-4ba6-9790-cc86ae3a4cbd'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:51:45.455+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T18:03:30.439+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T18:03:27.149+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Henry Hui'
+    '3':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Tay holds a Bachelor of Arts (First Class Honours) degree in Business
+        and International Management from Oxford Brookes University, United Kingdom.</p>
+
+
+        <p>He was appointed as an Independent Director of UOB Kay Hian Holdings Limited
+        on 1 March 2024. Mr Tay is the Group Managing Director of The Hour Glass Limited.</p>
+
+
+        <p>He served on the boards of the National Heritage Board and the Singapore
+        Tyler Print Institute, was a member of the governing council for the NTU Centre
+        for Contemporary Art and an advisory board member of Art Basel Cities and
+        Art SG, institutions engaged in the advancement of the heritage and visual
+        arts sector.</p>
+
+        '
+      'description': 'Independent Director'
+      'jcr:uuid': '508bff60-d85e-438d-8f51-567e4740aa80'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:51:45.456+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T18:03:30.440+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T18:03:27.150+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Tay Wee Jin Michael'
+    '4':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Leong was appointed a Non-Executive Non-Independent Director of UOB
+        Kay Hian Holdings Limited and a member of the Audit Committee on 1 June 2021.</p>
+
+
+        <p>He is the Managing Director and Head of Group Investment Banking of United
+        Overseas Bank Limited (UOB). He is responsible for the investment banking
+        business of UOB spanning debt and equity capital markets, corporate finance
+        and advisory, infrastructure and project finance, and syndicated financing.</p>
+
+
+        <p>He has more than 26 years of investment banking origination and execution
+        experience. Mr Leong also represents UOB as a director of UOB Asset Management
+        Ltd and as a non-executive director of ICHX Tech Pte Ltd, which owns ADDX,
+        a full-service capital markets platform with Monetary Authority of Singapore
+        (MAS) licences for the issuance, custody and secondary trading of digital
+        securities.</p>
+
+
+        <p>Prior to joining UOB in 2015, he led the debt capital markets team at the
+        investment banking arm of an international financial group. He also held senior
+        roles specialising in capital markets at several international banks.</p>
+
+
+        <p>Mr Leong holds a Master of Philosophy in Management Studies from the University
+        of Cambridge and a Bachelor of Science in Accounting (First Class Honours)
+        from the University of Wales, Cardiff. He is also a Chartered Financial Analyst
+        charterholder.</p>
+
+        '
+      'description': 'Non-Executive Non-Independent Director'
+      'jcr:uuid': 'b6418921-9b68-4538-9535-51134bb75883'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:51:45.456+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T18:03:30.440+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T18:03:27.150+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Leong Kok Mun, Edmund'
+    '5':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Leow was appointed Independent Director of UOB Kay Hian Holdings Limited
+        and member of the Audit Committee on 1 May 2024. He was subsequently appointed
+        as Chairman of the Nominating and Remuneration Committee on 1 October 2025.</p>
+
+
+        <p>Prior to his retirement at CapitaLand in June 2023, he spent 29 years with
+        the CapitaLand Group. His career with CapitaLand started in 1994 and his last
+        appointment with the Group was Chief Executive Officer, CapitaLand Development
+        Ltd. He continues as an advisor to CapitaLand Group after his retirement.</p>
+
+
+        <p>Mr Leow spent 13 years in China from 2001 to 2014. He was CEO, CapitaLand
+        China, in 2010 and returned to Singapore in 2014 as CEO, CapitaLand Retail
+        Group. In 2017, he was appointed Group Chief Operating Officer and subsequently
+        appointed as President, Singapore and International.</p>
+
+
+        <p>Mr Leow is an accountant by training and is a member of the Institute of
+        Singapore Chartered Accountants. He holds an Executive Master of Business
+        Administration from Fudan University and in 2007 attended the Advanced Management
+        Program at Harvard Business School.</p>
+
+
+        <p>Mr Leow serves on the board of NTUC U Care Fund as Chairman of the Board
+        of Trustees. He is also a board member of Yellow Ribbon Singapore.</p>
+
+        '
+      'description': 'Independent Director'
+      'jcr:uuid': '8f20139f-44ec-439f-a5c9-9708a0bc0568'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:51:45.456+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T18:03:30.440+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T18:03:27.151+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Jason Leow '
+    '6':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Ms Chan was appointed Independent Director of UOB Kay Hian Holdings Limited
+        and a member of the Audit Committee on 1 July 2025. She was subsequently appointed
+        as a member of the Nominating and Remuneration Committee on 1 October 2025.</p>
+
+
+        <p>She holds a Bachelor of Accountancy degree from the National University
+        of Singapore and is a member of the Institute of Singapore Chartered Accountants.
+        She has over 30 years of experience in finance, investment and management
+        across diverse industries.</p>
+
+
+        <p>She was Executive Chairman of Thomson Medical Pte Ltd from 2010 to 2015
+        and subsequently served as Non-Executive Deputy Chairman of Thomson Medical
+        Limited from 2015 to 2019. From 2019 to 2022, she was Chairman of RSP Architects
+        Planners &amp; Engineers (Pte) Ltd.</p>
+
+
+        <p>She also served as Executive President of Valencia Club de F&uacute;tbol
+        S.A.D. during two terms, from 2015 to 2017 and from 2022 to 2025.</p>
+
+
+        <p>Ms Chan previously served on the board of McLaren Group Ltd, a British
+        sports technology company, from 2011 to 2020, and was a board member of the
+        Singapore Olympic Foundation from 2010 to 2025.</p>
+
+        '
+      'description': 'Independent Director'
+      'jcr:uuid': '088ba166-29a5-40df-b3a4-936f97fefee2'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:51:45.457+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T18:03:30.440+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T18:03:27.151+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Ms Chan Lay Hoon'

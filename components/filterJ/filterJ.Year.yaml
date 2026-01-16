@@ -1,0 +1,46 @@
+'Year':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:filterJ'
+  'jcr:uuid': '154f7eb5-e33e-48c9-a722-1476bb9f3fe1'
+  'key': 'year'
+  'label': 'Year'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T01:25:38.370+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T06:15:35.438+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T06:15:35.047+08:00
+  'mgnl:lastModified': 2026-01-15T06:15:33.536+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Year'
+  'placeholder': 'Select year'
+  'items':
+    'jcr:uuid': 'f06068de-1609-4d62-b7b5-2df1942a86f9'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:25:38.374+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T06:15:35.439+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T06:15:33.536+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'jcr:uuid': '5b3c341b-6732-4208-ae17-0d04d518bf37'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:25:38.374+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T06:15:35.439+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T06:15:33.536+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'value': '2025'
+    '1':
+      'jcr:uuid': '8371e78b-aa5c-479d-8f58-a8e16b825384'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:25:38.374+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T06:15:35.439+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T06:15:33.536+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'value': '2026'

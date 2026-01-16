@@ -1,0 +1,18 @@
+'Leadership':
+  'content': '<p><!--StartFragment -->Why choose UOB Kay Hian? Multiple products,
+    services and solutions</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB7'
+  'jcr:uuid': '64a94da8-36dc-4284-aafd-99e895d90c1c'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:18:42.381+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:18:02.299+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:18:02.008+08:00
+  'mgnl:lastModified': 2025-12-21T02:18:42.381+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Leadership'

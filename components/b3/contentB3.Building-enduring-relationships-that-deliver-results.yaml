@@ -1,0 +1,39 @@
+'Building-enduring-relationships-that-deliver-results':
+  'description': 'Our relationships with entrepreneurs, local enterprises and major
+    institutions are built on a solid foundation of trust, shared ambitions and insights.'
+  'divider': false
+  'itemText': "<ul>\n\t<li><strong>Over a century of trust and distinction, since\
+    \ 1900s</strong></li>\n\t<li><strong>Values-driven culture: Honourable, Enterprising,\
+    \ and Committed</strong></li>\n\t<li><strong>Listed in Singapore (SGX:U10) with\
+    \ solid capital backing</strong></li>\n\t<li><!--StartFragment --><strong>3,200+\
+    \ professionals worldwide across 80 branches in Southeast Asia, Greater China,\
+    \ United Kingdom and North America</strong></li>\n\t<li><strong>More than 80 macro\
+    \ and equity research analysts providing local market insights</strong></li>\n\
+    \t<li><strong>Multi-market, multi-channel access in 5 core Asia-Pacific markets</strong></li>\n\
+    \t<li><strong>Integrated financial services spanning brokerage, wealth management,\
+    \ research, institutional partnerships, and investment banking</strong></li>\n\
+    </ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB3'
+  'jcr:uuid': 'b4497bc8-7053-4210-a6b7-ffdd8ac69fdd'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-12T12:38:00.923+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:08:28.783+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:08:28.470+08:00
+  'mgnl:lastModified': 2025-12-30T17:37:03.699+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Building enduring relationships that deliver results'
+  'title': 'Building enduring relationships that deliver results'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'f4c41c2a-1ee8-40e5-ae5c-8ee5dc648854'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-30T17:37:03.699+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:08:28.784+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T17:37:03.699+08:00
+    'mgnl:lastModifiedBy': 'superuser'

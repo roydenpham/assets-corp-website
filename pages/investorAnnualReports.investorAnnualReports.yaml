@@ -1,0 +1,33 @@
+'investorAnnualReports':
+  'annualReportList': ['7a6a857a-51d2-494c-93e6-82d4cf387c07', 'cb4a344e-e494-4cdd-a0f2-d3f8d0cbc5c0',
+    'a8390daa-23e6-4d2f-8812-4d8439e30f6e', '4198a6a1-ec1b-4b76-b174-5894ac120595',
+    'e7b3a892-f9fe-4470-8ac3-a3e19f6e7122', '7efb8e17-075d-4fe5-a401-e16d01452258',
+    'cabc4d24-1ba8-4ef1-b10e-bb967803ed10', 'a5fe6c48-ea38-4030-83c2-9a234ee3da0a']
+  'description': 'investorAnnualReports'
+  'headerA2': 'a5dc5632-2f4d-42f5-bcea-bec30c8c9a3d'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:investorAnnualReport'
+  'jcr:uuid': 'd433e044-45a5-4d34-b8e6-dc686eac2ba7'
+  'limit': '7'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T04:25:56.746+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-16T03:18:45.686+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.5'
+  'mgnl:lastActivatedVersionCreated': 2026-01-16T03:18:45.362+08:00
+  'mgnl:lastModified': 2026-01-16T03:18:43.638+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'investorAnnualReports'
+  'title': 'investorAnnualReports'
+  'totalPage': '20'
+  'filters':
+    'filterJItems': []
+    'jcr:uuid': 'dde1c1f7-6ca3-444e-a171-db73673dbb77'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-23T04:25:56.748+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T03:18:45.686+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T03:18:43.636+08:00
+    'mgnl:lastModifiedBy': 'superuser'

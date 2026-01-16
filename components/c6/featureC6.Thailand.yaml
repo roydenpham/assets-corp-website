@@ -1,0 +1,27 @@
+'Thailand':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC6'
+  'jcr:uuid': '7465c868-24a6-4b3b-8d25-0192ca44b4ab'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:26:42.567+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T19:03:15.162+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.4'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T19:03:14.842+08:00
+  'mgnl:lastModified': 2026-01-15T19:03:12.869+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Thailand'
+  'title': 'Thailand'
+  'ctaChooser':
+    'href': 'https://www.utrade.co.th/Page/MaintainSubMenuPage/90'
+    'isExternal': true
+    'jcr:uuid': '308ec61c-0e52-4e42-bc06-f61082b0d086'
+    'label': 'View website'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T02:26:42.569+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T19:03:15.162+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T19:03:12.869+08:00
+    'mgnl:lastModifiedBy': 'superuser'

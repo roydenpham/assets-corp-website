@@ -1,0 +1,35 @@
+'Philippines':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:officeItem'
+  'jcr:uuid': '23a4b780-84e3-4109-8a55-e6e90f2c5569'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-14T12:32:29.038+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:32:31.345+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:32:30.995+08:00
+  'mgnl:lastModified': 2026-01-14T12:32:29.038+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Philippines'
+  'title': 'UOB Kay Hian Securities (Philippines) Inc.'
+  'value': 'Philippines'
+  'address':
+    'areas': []
+    'jcr:uuid': '7cecba7f-ccfb-45a5-8441-c8efe8ec14ea'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-14T12:32:29.040+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:32:31.345+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:32:29.040+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'regions': []
+    'streets': []
+    'text': '<p>Unit 4B, Level 18, Tower 2, The Enterprise Center<br />
+
+      6766 Ayala Avenue corner Paseo De Roxas<br />
+
+      Makati City 1226 Philippines</p>
+
+      '

@@ -1,0 +1,33 @@
+'JD.com--9618-HK-':
+  'description': '<p><!--StartFragment -->2Q25: Revenue Beat; Viable Cross-selling
+    From FD but Margin Under Pressure</p>
+
+    '
+  'image': 'jcr:019d3b2a-79ec-499f-b0f2-874fc02be1e5'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC2'
+  'jcr:uuid': '13bd55a8-5d65-419d-b628-9aea34a17a57'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T13:51:21.798+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T12:13:56.766+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T12:13:56.469+08:00
+  'mgnl:lastModified': 2026-01-06T12:13:32.871+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'JD.com (9618 HK)'
+  'tag': 'Companies'
+  'title': 'JD.com (9618 HK)'
+  'ctaChooser':
+    'detailPage': '6f1747e7-fac8-4fe1-b8e2-0c1545e37ff0'
+    'isExternal': false
+    'jcr:uuid': '4e3b5f46-495d-4f95-b908-1248820b0af4'
+    'label': 'Read more'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-23T13:51:21.805+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T12:13:56.766+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-06T12:13:32.871+08:00
+    'mgnl:lastModifiedBy': 'superuser'

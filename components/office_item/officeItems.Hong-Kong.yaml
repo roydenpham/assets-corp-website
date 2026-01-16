@@ -1,0 +1,37 @@
+'Hong-Kong':
+  'email': 'clientservices@uobkayhian.com.hk'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:officeItem'
+  'jcr:uuid': 'd8542a21-85c7-4f7f-b17b-a006873d3763'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-14T12:28:13.408+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:30:29.738+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:30:29.436+08:00
+  'mgnl:lastModified': 2026-01-14T12:30:27.849+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Hong Kong'
+  'phoneNumber': '(852) 2521 8787'
+  'title': 'UOB Kay Hian (Hong Kong) Limited'
+  'value': 'Hong Kong'
+  'address':
+    'areas': []
+    'jcr:uuid': 'd2a86653-dabe-48f7-b963-c7c58cfab384'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-14T12:28:13.411+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:30:29.738+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:30:27.849+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'regions': []
+    'streets': []
+    'text': '<p>6/F, Harcourt House<br />
+
+      39 Gloucester Road<br />
+
+      Hong Kong</p>
+
+      '

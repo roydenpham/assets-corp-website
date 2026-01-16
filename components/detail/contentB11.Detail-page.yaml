@@ -1,0 +1,124 @@
+'Detail-page':
+  'date': '15/10/2025 '
+  'downloadText': 'Download the PDF to read the full report.'
+  'highlights': "<p><strong>Highlights</strong></p>\n\n<ul>\n\t<li>Lorem Ipsum is\
+    \ simply dummy text of the printing and typesetting industry. Lorem Ipsum has\
+    \ been the industry&#39;s standard dummy text ever since the 1500s, when an unknown\
+    \ printer took a galley of type and scrambled it to make a type specimen book.\
+    \ It has survived not only five centuries, but also the leap into electronic typesetting,\
+    \ remaining essentially unchanged. It was popularised in the 1960s with the release\
+    \ of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop\
+    \ publishing software like Aldus PageMaker including versions of Lorem Ipsum.</li>\n\
+    </ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB11'
+  'jcr:uuid': '37967ae6-2cce-40f1-a3fa-b1f85a098f8d'
+  'location': 'Location'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-12T15:59:19.574+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:12:28.398+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:12:27.767+08:00
+  'mgnl:lastModified': 2025-12-23T16:05:44.589+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Detail page'
+  'subhead': 'Subhead '
+  'title': 'Heading here'
+  'backButton':
+    'backButtonText': 'Back'
+    'field': 'Back'
+    'jcr:uuid': '018f89a8-399a-4db5-b438-0e8c56317af6'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-12T15:59:19.583+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:12:28.399+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-14T17:30:06.984+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'shareSection':
+    'emailLink': '222'
+    'facebookLink': '333'
+    'field': 'Share'
+    'jcr:uuid': 'e11c1eca-84b3-483d-8df9-04c7279b23d8'
+    'linkedinLink': '555'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-12T15:59:19.587+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:12:28.400+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-12T18:14:52.590+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'shareUrl': '111'
+    'xLink': '444'
+  'analystSection':
+    'analystEmail': 'name@uobkh.com'
+    'analystName': 'Name'
+    'field': 'Analyst'
+    'jcr:uuid': '9fc417c1-fc80-4cb7-8991-089bd6e37bc5'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-12T15:59:19.589+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:12:28.400+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-12T15:59:19.589+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'downloadButton':
+    'downloadButtonText': 'Download '
+    'field': 'Download '
+    'jcr:uuid': '2303af6d-16a1-449a-9259-f851eb881bdf'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-12T15:59:19.591+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:12:28.401+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-14T17:30:06.991+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'downloadLink':
+      'externalLink': 'https://dulichviet.com.vn/'
+      'jcr:uuid': '517a5b9d-1365-4af3-aec0-61d3fcef25e6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-14T17:30:06.991+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:12:28.401+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-14T17:30:06.991+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'rightSideImage':
+    'image': 'jcr:7c494336-b250-4469-bf06-2778a791e67d'
+    'jcr:uuid': 'a590612d-ac0c-4ea5-9fbe-bbb38abf0e2d'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-12T15:59:19.595+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:12:28.401+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T16:05:44.573+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'priceList':
+    'buyStatus': 'MAINTAINED'
+    'currentPrice': 'HK$126.40'
+    'field': 'BUY'
+    'jcr:uuid': 'c07dffed-198a-4837-aad9-61113cbe3054'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-12T15:59:19.599+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:12:28.401+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-12T15:59:19.599+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'percentage': '32.1%'
+    'targetPrice': 'HK$167.00'
+  'disclaimers':
+    'content': '<p>fdsafdsafdasfdsa</p>
+
+      '
+    'jcr:uuid': '5d33ea52-3bf3-4179-9f34-da1df01a1747'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-12T15:59:19.601+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:12:28.402+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T16:05:44.589+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Disclaimers and lmportant Notices'

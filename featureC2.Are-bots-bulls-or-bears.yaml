@@ -1,22 +1,0 @@
-'Are-bots-bulls-or-bears':
-  'description': '<p><!--StartFragment -->The influence of AI on markets     </p>
-
-    '
-  'image': 'jcr:33363b58-11d8-4ab6-b73e-c2044933fcbb'
-  'jcr:primaryType': 'mt:featureC2'
-  'jcr:uuid': '4db98223-5e34-49ff-a3aa-5c7047b24650'
-  'mgnl:created': 2025-12-23T13:42:28.658+08:00
-  'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2025-12-29T10:09:29.323+08:00
-  'mgnl:lastModifiedBy': 'superuser'
-  'name': 'Are bots bulls or bears'
-  'title': 'Are bots bulls or bears?     '
-  'ctaChooser':
-    'detailPage': 'bccac67c-e599-4a78-8ee5-e9029a5248fd'
-    'isExternal': false
-    'jcr:uuid': 'a4d84cb4-647c-43bd-88f9-501e62138266'
-    'label': 'Read more'
-    'mgnl:created': 2025-12-23T13:42:28.668+08:00
-    'mgnl:createdBy': 'superuser'
-    'mgnl:lastModified': 2025-12-29T10:09:29.323+08:00
-    'mgnl:lastModifiedBy': 'superuser'

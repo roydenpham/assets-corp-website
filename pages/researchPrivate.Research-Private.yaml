@@ -1,0 +1,108 @@
+'Research-Private':
+  'disclaimer': '54480001-fc0c-4e54-8df6-93087dab5b30'
+  'filterI': '4812572f-b7c5-4040-bbd6-34de9cbcde63'
+  'headerA2': '9c17441d-c3bf-45b9-b9e8-d8ee72645b7f'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:researchPrivate'
+  'jcr:uuid': '8ead7879-cad6-494f-b0db-31620da9397b'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T12:00:10.064+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-12T23:54:42.605+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-12T23:54:42.044+08:00
+  'mgnl:lastModified': 2026-01-12T23:54:40.359+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Research Private'
+  'title': 'Research Private'
+  'specialMenu':
+    'jcr:uuid': '15207c87-2a77-408a-80d9-b0b7e6c12d7b'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:00:10.069+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:42.605+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:54:40.355+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'isActive': true
+      'jcr:uuid': '7ca84df2-0709-4cc3-9f5c-83903483e6ba'
+      'menuItems': 'aeb4971a-c3d8-4fb0-968b-f48facef4ddc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:00:10.072+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:42.605+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:54:40.354+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '1':
+      'isActive': false
+      'jcr:uuid': 'faf74647-da00-422f-a255-723a55e3b0b9'
+      'menuItems': '3e75fc59-a5f6-4aa1-ab2a-41a3922e32db'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:00:10.072+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:42.605+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:54:40.354+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '2':
+      'isActive': false
+      'jcr:uuid': '3d309063-15ac-46d7-992e-41deec946252'
+      'menuItems': '6765ee00-0a73-4718-a24d-e07b108b41a6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:00:10.073+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:42.606+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:54:40.355+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '3':
+      'isActive': false
+      'jcr:uuid': '1d42a6e3-6819-4990-aba8-cfaaec0fee4a'
+      'menuItems': '51fb53b6-e453-4257-8718-8daa8dbb53ef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:00:10.074+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:42.606+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:54:40.355+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['73a61c24-d5b6-4aec-b42f-64f3e2ff14db', 'de8caaf0-7770-4519-8d42-5577334f60b8',
+      '4db98223-5e34-49ff-a3aa-5c7047b24650']
+    'isBackground': true
+    'jcr:uuid': '3586da33-d74d-4a6d-b422-4564a24ac5c6'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:00:10.078+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:42.606+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:54:40.357+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Authoritative perspectives from our CIO on global trends, strategy,
+      and asset allocation shaping institutional and high net worth investment decisions.'
+  'listD3List':
+    'd3Items': ['81e793cd-223d-458e-9f65-a9abf53bae72', '222d1b3a-7246-47a7-9a8b-c0c4da70953f',
+      '6289b179-5406-4cbb-a12c-e4b1da814a89', '32122a95-a568-45fc-b182-7394642958ba',
+      'a5497fba-e2a5-44ac-8ccd-ceb7b958695f', '15d45409-68f7-4c08-917a-d1e84c2405c0']
+    'jcr:uuid': '8c038746-2ab4-4534-a008-d588e9a0da60'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:00:10.080+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:42.606+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:54:40.358+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Expert data-driven insights and analysis'
+  'featureC5List':
+    'c5Items': ['1cd12d0e-8908-4503-bbde-ab2bae23439a', 'bf612357-ed5b-4017-9e8b-c0c8a393ea01']
+    'jcr:uuid': '5467dbcf-440a-4216-aa52-7912dfcdab91'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:00:10.081+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:42.607+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:54:40.359+08:00
+    'mgnl:lastModifiedBy': 'superuser'

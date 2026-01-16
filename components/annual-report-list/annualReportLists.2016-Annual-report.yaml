@@ -1,0 +1,17 @@
+'2016-Annual-report':
+  'coverImage': 'jcr:cc7ab9de-5465-4837-a56d-c5ff990cc635'
+  'href': 'https://ir2.chartnexus.com/uobkh/doc/AR/ar2016.pdf'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:annualReportList'
+  'jcr:uuid': 'a5fe6c48-ea38-4030-83c2-9a234ee3da0a'
+  'label': 'View'
+  'mgnl:activationStatus': false
+  'mgnl:created': 2025-12-23T04:15:59.481+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-16T16:03:40.034+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastModified': 2026-01-16T15:55:48.848+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': '2016 Annual report'
+  'title': '2016 Annual report'
+  'year': '2016'
