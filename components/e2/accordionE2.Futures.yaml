@@ -1,0 +1,17 @@
+'Futures':
+  'description': "<ul>\n\t<li>Index, forex, bullion, energy, commodity futures broking\
+    \ services</li>\n</ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': '0bc66e9b-5fb2-49d8-9fc0-1873f3ba9593'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-08T01:04:43.421+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T00:47:51.279+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T00:47:51.008+08:00
+  'mgnl:lastModified': 2026-01-15T00:47:48.635+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Futures'
+  'title': 'Futures'

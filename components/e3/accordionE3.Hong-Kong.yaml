@@ -1,0 +1,84 @@
+'Hong-Kong':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE3'
+  'jcr:uuid': 'b6ddee17-d689-4fc9-aa9c-4c2ae9c5e363'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:17:01.752+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-13T12:16:01.390+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-13T12:16:00.965+08:00
+  'mgnl:lastModified': 2026-01-13T12:15:58.615+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Hong Kong'
+  'title': 'Hong Kong'
+  'accordionItem':
+    'jcr:uuid': '4093f6f2-96ba-492b-975f-653ace597f6b'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T02:17:01.754+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-13T12:16:01.390+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-13T12:15:58.615+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Hsu holds a degree in Economics and Commerce from the University of
+        Melbourne. He qualified as a Chartered Accountant with KPMG Peat Marwick in
+        Australia and as a CPA with KPMG Peat Marwick in Hong Kong.</p>
+
+
+        <p>He joined UOB Kay Hian (Hong Kong) Limited as Chief Executive Officer in
+        January 2012. Mr Hsu has more than 32 years of experience in the securities
+        industry.</p>
+
+
+        <p>Before joining the Group, he was Head of Corporate Finance at Cazenove
+        Asia in 1996, became Partner at Cazenove &amp; Co PLC in 2001, and later served
+        as Managing Director of JP Morgan Cazenove and Head of Investment Banking
+        for Asia at Cazenove Asia Limited. His last position before joining UOB Kay
+        Hian was Managing Director and Head of Equity Corporate Finance at Standard
+        Chartered Bank (HK) Ltd in 2009.</p>
+
+
+        <p>Mr Hsu is also an Independent Non-Executive Director of Kowloon Development
+        Company Limited (SEHK: 0034).</p>
+
+        '
+      'description': 'Chief Executive Officer'
+      'jcr:uuid': 'a52135bd-584e-4320-8b7b-347555d5ff83'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:17:01.755+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:16:01.391+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:15:58.615+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Karman Hsu'
+    '1':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Lam holds a Master of Applied Finance from Macquarie University, Australia,
+        and is a CPA under CPA Australia. He joined UOB Kay Hian (Hong Kong) Limited
+        in 2005 and was appointed Executive Director in 2015.</p>
+
+
+        <p>He is involved in the general management of Hong Kong operations. Prior
+        to joining UOB Kay Hian, he worked for a global banking group in Australia
+        and Hong Kong.</p>
+
+        '
+      'description': 'Executive Director – Operations'
+      'jcr:uuid': '6eb82fdf-413f-4e6f-8324-f14174a2e945'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:17:01.755+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:16:01.391+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:15:58.615+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Raymond Lam'

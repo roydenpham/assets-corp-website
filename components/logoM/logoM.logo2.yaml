@@ -1,0 +1,24 @@
+'logo2':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:logoM'
+  'jcr:uuid': '59eb60d0-8037-4ef3-8b62-e625e6e68b2c'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-14T15:14:31.990+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T15:14:34.447+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T15:14:34.118+08:00
+  'mgnl:lastModified': 2026-01-14T15:14:31.990+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'logo2'
+  'imageChooser':
+    'image': 'jcr:77027e22-2fde-4f01-9686-699e4c08e9e8'
+    'jcr:uuid': '15f2db9e-ae49-4902-aaaa-5123221ae9c2'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-14T15:14:31.992+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T15:14:34.448+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T15:14:31.992+08:00
+    'mgnl:lastModifiedBy': 'superuser'

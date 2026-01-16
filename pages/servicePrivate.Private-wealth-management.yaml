@@ -1,0 +1,166 @@
+'Private-wealth-management':
+  'contentB1': '9b55f3dd-cc4c-4aa6-a1d4-7f8688939406'
+  'contentB2': '7cc472e6-ded9-4ef7-af93-558d47e8426d'
+  'contentB7': 'ac412b65-d3e6-4b6c-ba39-b23ddff41791'
+  'headerA2': '4b102ce0-3316-4243-b95a-20e1d1411644'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:servicePrivate'
+  'jcr:uuid': 'fa60637b-a0f6-4ae3-9454-a89f1ae0a8a2'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T11:48:20.835+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T00:42:14.173+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.9'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T00:42:13.525+08:00
+  'mgnl:lastModified': 2026-01-15T00:42:11.445+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Private wealth management'
+  'title': 'Private wealth management'
+  'featureC11List':
+    'c11Items': ['98c4489f-d134-42c5-830e-858624c9fa75', '13842e35-f2d7-4f07-9ab5-bc62faddd7ad',
+      'dfaab7c1-fbbb-4b3f-8201-616fddb36f8a', '81766c55-4ed6-4496-b320-a08fb5e682de',
+      '8b3f0f41-e53b-4abb-bba2-5857b659c942']
+    'jcr:uuid': '19b3905c-4326-4baf-9a96-aadbf4071b51'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.844+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.173+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:42:11.439+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Personal service with local understanding'
+  'listD1List1':
+    'd1Items': ['cb776e87-b4e2-4898-9958-9d417becdadb', '016189eb-1106-4d63-9eeb-9cba124e5c45',
+      '0b2efe0b-157e-480f-8d00-b3777cdadbe8', '0873dfc3-2bd9-47b6-aae0-732993e78cce']
+    'jcr:uuid': '0ef5f42f-0de2-43ac-9b04-5d8b38816781'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.847+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.173+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:42:11.440+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Our commitment to serving your interests'
+    'ctaChooser':
+      'isExternal': false
+      'jcr:uuid': '6f14273e-248c-4ed0-b716-bd0a9641f654'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T11:48:20.849+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T00:42:14.174+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T00:41:15.894+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'listD1List2':
+    'd1Items': ['b7d566e1-0aaf-45cb-8ac6-5f51800b7c15', '05d79f9b-1d44-47f0-972f-35d8adeb1a7d',
+      'e0cb27d3-ea5f-4341-b06d-f4cb4e1a8759', 'df245ab7-e09c-4872-92de-3cf7138539c3']
+    'jcr:uuid': '8eee9d1b-ac0a-48ad-a5ec-55adfdb1c9d1'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.849+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.174+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:42:11.441+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'UOB Kay Hian ticks all the boxes'
+    'ctaChooser':
+      'isExternal': false
+      'jcr:uuid': '1b005fb0-0408-4190-adee-7f733b8dcb92'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T11:48:20.851+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T00:42:14.174+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T00:41:15.896+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'stepsKList':
+    'jcr:uuid': 'eeb4230b-fe51-4be9-90cf-1a615a7aa520'
+    'kSteps': ['54b5c211-0c6a-4921-bb4f-9c26e42852b5', '5a4698b5-781e-4fac-bbf0-c49b3e473537',
+      'f06720c5-0d3a-425d-b994-3ebc80a9320b', 'ed964cb0-2473-48ef-89c0-f008195a2c19']
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.852+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.175+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:42:11.442+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Our four-step approach to portfolio management'
+    'ctaChooser':
+      'isExternal': false
+      'jcr:uuid': 'a27969d8-a2f5-47c5-b703-98704e6b0631'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T11:48:20.853+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T00:42:14.175+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T00:41:15.897+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'accordionE2List':
+    'e2Items': ['2effe508-e7d8-4848-87f9-00f2e129fbfb', '2b98cbba-b24f-4d8d-9f5b-b792fe0c9a57',
+      '4a4961c5-83b3-4489-afde-2a3a935144e7', 'ea7f3769-da8c-4d1a-9487-dc1b397af6c8',
+      'e724aa8e-c5c3-4bcf-9cc2-f8085321b683', '64a2d1c5-86d6-40ec-951f-c98a2967bf39',
+      '7cebd756-d9f9-43d2-bc62-6720fd1c74e4']
+    'jcr:uuid': '6df752b7-0e5f-46d8-8f9c-ba9868adc038'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.854+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.175+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:42:11.444+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'A world of wealth-building opportunities'
+  'logoMList':
+    'jcr:uuid': 'b03266ac-dbcf-4f23-be95-7a947d7d6269'
+    'mItems': ['79da29d8-d9a6-4274-bffd-d4e60aa2570d', '59eb60d0-8037-4ef3-8b62-e625e6e68b2c',
+      'bb93a984-f85a-4a06-a80d-530882508bde', 'add5dc8f-d033-4ae2-b924-8a95d2f555b9',
+      'a926f0a3-e9bd-4dca-a23c-e221ee776340']
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.856+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.175+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:42:11.444+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'We partner with global leaders'
+  'contentC4List':
+    'c4Items': ['45b78546-a005-4024-90e8-cb9bd07f43cd', 'cceb2ffe-2d66-4918-a9f3-ddcb858512d2']
+    'jcr:uuid': 'f54a57b6-662e-470c-9a1d-6e6ee5c38566'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.859+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.176+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:42:11.445+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Get access to our 80+ research analysts’ publications'
+  'contentC3List':
+    'c3Items': []
+    'jcr:uuid': '5d55b701-af42-4076-b029-7c3d4ccd9339'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.860+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.176+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:53:21.563+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC5List':
+    'c5Items': []
+    'jcr:uuid': '265d8110-190a-4069-b08a-22aa05a89f69'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.862+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.176+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:53:21.564+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': '0bb11774-7997-4439-91e2-4275a1ae6357'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:48:20.863+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:42:14.177+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:56:31.385+08:00
+    'mgnl:lastModifiedBy': 'superuser'

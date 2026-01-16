@@ -1,0 +1,50 @@
+'Insurance':
+  'description': 'UOBKH supports your long-term plans with clear, disciplined insurance
+    solutions. We listen carefully and tailor coverage to your needs.'
+  'divider': false
+  'itemText': '<p><strong>Flexibility</strong><br />
+
+    Our adaptable solutions are suited to your changing financial goals and circumstances.</p>
+
+
+    <p><strong>Customisation</strong><br />
+
+    Insurance solutions structured to meet individual goals, from building wealth
+    to legacy planning.</p>
+
+
+    <p><strong>Partnerships</strong><br />
+
+    We work with global partners specialising in insurance, trust and tax to provide
+    you with comprehensive solutions.</p>
+
+
+    <p><strong>Financing</strong><br />
+
+    Financing solutions are available to enhance clients&rsquo; insurance strategies.&nbsp;</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB3'
+  'jcr:uuid': '509c84b2-0808-4206-98d5-352b8c2bc8bf'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-12T12:41:47.980+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T00:51:12.595+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T00:51:12.285+08:00
+  'mgnl:lastModified': 2026-01-15T00:51:10.440+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Insurance'
+  'title': 'Peace-of-mind that’s just right for you'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': 'dfe2c11d-066b-4772-9498-9fefc050304c'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-30T00:34:34.099+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:51:12.595+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-30T00:34:34.099+08:00
+    'mgnl:lastModifiedBy': 'superuser'

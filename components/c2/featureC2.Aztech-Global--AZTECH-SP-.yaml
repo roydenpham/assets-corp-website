@@ -1,0 +1,33 @@
+'Aztech-Global--AZTECH-SP-':
+  'description': '<p>3Q25: Results In Line; Customer Demand Remains Soft&nbsp;</p>
+
+    '
+  'image': 'jcr:b0aaca6d-32eb-48f3-8ccd-be55e20e5685'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC2'
+  'jcr:uuid': 'c5686a3e-21df-469e-b5a7-2ad43183fbf2'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-09T01:55:10.426+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:09:26.124+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:09:25.833+08:00
+  'mgnl:lastModified': 2025-12-23T10:56:26.015+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Aztech Global (AZTECH SP)'
+  'tag': 'Research'
+  'title': 'Aztech Global (AZTECH SP)'
+  'ctaChooser':
+    'detailPage': 'bccac67c-e599-4a78-8ee5-e9029a5248fd'
+    'href': 'research/detail-page'
+    'isExternal': false
+    'jcr:uuid': '1dae1008-bea1-47f5-9c30-c6d650de87bb'
+    'label': 'Read more'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-09T01:55:10.430+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:09:26.124+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-23T10:56:26.015+08:00
+    'mgnl:lastModifiedBy': 'superuser'

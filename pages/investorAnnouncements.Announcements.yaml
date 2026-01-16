@@ -1,0 +1,146 @@
+'Announcements':
+  'description': '<p><!--StartFragment -->Announcements</p>
+
+    '
+  'downloadListF': '7ac8bda2-163d-4366-abce-0f85a1c1df83'
+  'factSheet': 'https://ir2.chartnexus.com/uobkh/iframe_factsheet.php'
+  'headerA2': 'c2ee9b03-f9da-4bf1-adf5-f0809b0cebcc'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:investorAnnouncement'
+  'jcr:uuid': '9854d1c7-9e14-47c0-8380-0c6e4c8f7cf7'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T01:31:03.069+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-16T17:43:24.057+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.9'
+  'mgnl:lastActivatedVersionCreated': 2026-01-16T17:43:23.438+08:00
+  'mgnl:lastModified': 2026-01-16T17:43:21.438+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Announcements'
+  'shareHoldings': 'https://ir2.chartnexus.com/uobkh/iframe_shareholdings.php'
+  'stock': 'https://ir2.chartnexus.com/uobkh/iframe_stockquotes.php'
+  'title': 'Announcements'
+  'filters':
+    'filterJItems': ['154f7eb5-e33e-48c9-a722-1476bb9f3fe1', 'ee4b6c8e-9508-4d9e-a525-1b2cec701ef7']
+    'jcr:uuid': 'c79c6ef8-49bf-468c-85b8-cf761ad565d0'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:31:03.071+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T17:43:24.057+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T10:55:19.883+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'contentB9':
+    'image': ['http://cloud.chartnexus.com/cloudchart/getAppFile?filename=ircharts/sgx/R1/U10.png',
+      'http://cloud.chartnexus.com/cloudchart/getAppFile?filename=ircharts/sgx/R2/U10.png',
+      'http://cloud.chartnexus.com/cloudchart/getAppFile?filename=ircharts/sgx/R3/U10.png']
+    'jcr:uuid': '0ffdef44-1b35-4e62-92b5-29bb9f8f1f74'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:31:03.072+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T17:43:24.057+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T17:43:21.436+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Stock charts'
+    'image':
+      'jcr:uuid': '8149e562-e2c9-445d-b63c-a7aeaa8b6af3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:31:03.073+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-16T17:43:24.058+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:54:21.218+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      '0':
+        'image': 'jcr:b6b51932-65d2-42b3-af2b-2f0ece8da3e3'
+        'jcr:uuid': '7f8a14b2-e479-4808-962d-fa089a083936'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2026-01-12T04:16:27.343+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-16T17:43:24.058+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-12T23:54:21.218+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '1':
+        'image': 'jcr:b6b51932-65d2-42b3-af2b-2f0ece8da3e3'
+        'jcr:uuid': 'b524d3ff-1e60-4f9c-93ec-d2515788d2d2'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2026-01-12T04:16:27.350+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-16T17:43:24.058+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-12T23:54:21.218+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '2':
+        'image': 'jcr:b6b51932-65d2-42b3-af2b-2f0ece8da3e3'
+        'jcr:uuid': 'b0ad4d4f-0290-43f0-95ee-620f8dcf6f6a'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2026-01-12T04:16:27.357+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-16T17:43:24.059+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-12T23:54:21.218+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+  'groups':
+    'jcr:uuid': '6308bcb6-b204-4d22-aea7-6aa464673a34'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-16T05:29:58.656+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T17:43:24.059+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T17:43:21.438+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Stock information & Factsheet'
+    'items':
+      'jcr:uuid': '175a4492-9848-445c-aa06-503592b457f5'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-16T05:29:58.656+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-16T17:43:24.060+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-16T17:43:21.438+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      '0':
+        'jcr:uuid': 'b2b0139e-a854-4729-b884-4f583f575ff3'
+        'link': 'https://ir2.chartnexus.com/uobkh/iframe_factsheet.php'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2026-01-16T05:29:58.656+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-16T17:43:24.060+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-16T17:43:21.438+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '1':
+        'jcr:uuid': '4b9367b4-3d34-4f15-9e26-c06056759a2a'
+        'link': 'https://ir2.chartnexus.com/uobkh/iframe_stockquotes.php'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2026-01-16T05:29:58.657+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-16T17:43:24.060+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-16T17:43:21.438+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+  'shareHoldings':
+    'jcr:uuid': 'e8e8c682-f9b5-44e1-b0cb-ada2364600ef'
+    'link': 'https://ir2.chartnexus.com/uobkh/iframe_shareholdings.php'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-16T05:29:58.659+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T17:43:24.061+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T05:29:58.659+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Shareholders'
+  'annoucement':
+    'jcr:uuid': '5f9e3009-ca8b-4e47-96f1-d02367b08389'
+    'link': 'https://ir2.chartnexus.com/uobkh/iframe_announcement.php'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-16T05:30:59.549+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T17:43:24.061+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T05:30:59.549+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Announcements'

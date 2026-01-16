@@ -1,0 +1,140 @@
+'Services-for-institutions-allocating-capital':
+  'description': 'Efficient access to primary and private deals. Disciplined execution
+    and clear information.'
+  'divider': false
+  'itemText': "<ul>\n\t<li><!--StartFragment --><strong>Efficient access to primary\
+    \ and private deals.</strong></li>\n\t<li><!--StartFragment --><strong>IPO cornerstone\
+    \ and anchor allocations</strong></li>\n\t<li><!--StartFragment --><strong>Placements\
+    \ and follow-on offerings</strong></li>\n\t<li><!--StartFragment --><strong>Rights\
+    \ issue sub-underwriting</strong></li>\n\t<li><!--StartFragment --><strong>Accelerated\
+    \ bookbuild participation</strong></li>\n\t<li><!--StartFragment --><strong>Block\
+    \ trade opportunities</strong></li>\n\t<li><!--StartFragment --><strong>Private\
+    \ placements and PIPE</strong></li>\n\t<li><!--StartFragment --><strong>Convertibles\
+    \ and exchangeables</strong></li>\n\t<li><!--StartFragment --><strong>Perpetuals\
+    \ and preference shares</strong></li>\n\t<li><!--StartFragment --><strong>Medium\
+    \ length section heading goes here</strong></li>\n</ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB3'
+  'jcr:uuid': '583482f9-4ff9-44eb-9f07-f7cc910ed89d'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T16:47:54.611+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:08:46.834+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:08:46.268+08:00
+  'mgnl:lastModified': 2025-12-29T02:45:23.390+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Services for institutions allocating capital'
+  'title': 'Services for institutions allocating capital'
+  'listItems':
+    'jcr:uuid': '8377ca8f-0069-4d50-aab2-454a7fc348dc'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-11T16:47:54.762+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:08:46.834+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-11T16:47:54.762+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'itemText': 'Efficient access to primary and private deals.'
+      'jcr:uuid': 'a3132f27-d3f3-4adb-85e6-d3f4e2ae9465'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:47:54.776+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:46.835+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:47:54.776+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '1':
+      'itemText': 'IPO cornerstone and anchor allocations'
+      'jcr:uuid': '75bab8be-3739-4f63-8b3c-16651b75dc12'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:47:54.778+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:46.836+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:47:54.778+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '2':
+      'itemText': 'Placements and follow-on offerings'
+      'jcr:uuid': '39a2d313-4a17-4c33-a003-7123d04616d3'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:47:54.779+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:46.836+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:47:54.779+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '3':
+      'itemText': 'Rights issue sub-underwriting'
+      'jcr:uuid': 'a39c432a-04b2-4cce-bd0f-2e6721f0c6a4'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:47:54.779+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:46.837+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:47:54.779+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '4':
+      'itemText': 'Accelerated bookbuild participation'
+      'jcr:uuid': '90fa1b1d-5993-49e3-90de-cbbffd7f4bb1'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:47:54.780+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:46.837+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:47:54.780+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '5':
+      'itemText': 'Block trade opportunities'
+      'jcr:uuid': '178b7421-0351-4d08-90eb-43f3a7630af7'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:47:54.782+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:46.838+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:47:54.782+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '6':
+      'itemText': 'Private placements and PIPE'
+      'jcr:uuid': '99ef84fc-75e7-4e05-98fe-efd226ee3225'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:47:54.784+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:46.838+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:47:54.784+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '7':
+      'itemText': 'Convertibles and exchangeables'
+      'jcr:uuid': '8676d351-117d-47d4-a171-87b073e4958e'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:47:54.786+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:46.839+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:47:54.786+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '8':
+      'itemText': 'Perpetuals and preference shares'
+      'jcr:uuid': '7b52dcaf-4666-4c3a-bf09-5c91fe59289c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-11T16:47:54.787+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T00:08:46.839+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2025-12-11T16:47:54.787+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'ctaChooser':
+    'href': 'https://laodong.vn/du-lich'
+    'isExternal': true
+    'jcr:uuid': '8c6a191a-6e03-4855-91b5-8a44f762d74c'
+    'label': 'Message us now'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-11T16:48:43.981+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:08:46.840+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-11T16:48:43.981+08:00
+    'mgnl:lastModifiedBy': 'superuser'

@@ -1,0 +1,19 @@
+'Reporting-and-transparency':
+  'description': "<p><!--StartFragment --></p>\n\n<ul>\n\t<li>\n\t<p>Clear, periodic\
+    \ performance reports</p>\n\t</li>\n\t<li>\n\t<p>Fee transparency and independent\
+    \ oversight</p>\n\t</li>\n\t<li>\n\t<p>Portfolio analytics, benchmarking and risk\
+    \ diagnostics</p>\n\t</li>\n</ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': '37486e08-2d94-4a89-a4d8-cf2437ecaef9'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-30T16:06:27.782+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:11:40.465+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:11:40.218+08:00
+  'mgnl:lastModified': 2025-12-30T16:06:27.782+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Reporting and transparency'
+  'title': 'Reporting and transparency'

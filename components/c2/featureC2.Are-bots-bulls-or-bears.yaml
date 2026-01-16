@@ -1,0 +1,31 @@
+'Are-bots-bulls-or-bears':
+  'description': '<p><!--StartFragment -->The influence of AI on markets     </p>
+
+    '
+  'image': 'jcr:33363b58-11d8-4ab6-b73e-c2044933fcbb'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC2'
+  'jcr:uuid': '4db98223-5e34-49ff-a3aa-5c7047b24650'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T13:42:28.658+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T12:11:24.769+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T12:11:24.452+08:00
+  'mgnl:lastModified': 2026-01-06T12:11:19.978+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Are bots bulls or bears'
+  'title': 'Are bots bulls or bears?     '
+  'ctaChooser':
+    'detailPage': '6f1747e7-fac8-4fe1-b8e2-0c1545e37ff0'
+    'isExternal': false
+    'jcr:uuid': 'a4d84cb4-647c-43bd-88f9-501e62138266'
+    'label': 'Read more'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-23T13:42:28.668+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T12:11:24.769+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-06T12:11:19.978+08:00
+    'mgnl:lastModifiedBy': 'superuser'

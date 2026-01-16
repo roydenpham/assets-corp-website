@@ -1,0 +1,74 @@
+'retail-online':
+  'contentB7': 'e372e678-a4c6-4760-ad5e-1322045f6d5e'
+  'headerA2': '8d776510-33e7-40e5-a966-2733a02a6032'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:serviceRetailOnline'
+  'jcr:uuid': '5cdea69a-05c6-44aa-ba55-0d642afeef6b'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T11:16:14.932+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:46:14.553+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.5'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:46:14.084+08:00
+  'mgnl:lastModified': 2026-01-14T12:46:11.986+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'retail-online'
+  'title': 'retail-online'
+  'featureC11List':
+    'c11Items': ['83c5eac2-5841-4550-a61f-0e6b761e70e7', '83b41ecd-1e20-424d-8ba5-4a75434132f6',
+      'bbdc94d2-cceb-497e-aef9-b4fcfa9dfb38', 'c90ffc2e-b472-4e2a-86e9-80eeb3a62ac5',
+      '76a71076-bb1b-4a46-8b1a-df33a9eab57f']
+    'jcr:uuid': '0c959a18-2ac6-4a6e-a092-bd17f959e98f'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:16:14.942+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:46:14.553+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:46:11.983+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Signup, login, trade online with UOBKH'
+  'accordionE2List':
+    'e2Items': ['2effe508-e7d8-4848-87f9-00f2e129fbfb', '2b98cbba-b24f-4d8d-9f5b-b792fe0c9a57',
+      '4a4961c5-83b3-4489-afde-2a3a935144e7', 'ea7f3769-da8c-4d1a-9487-dc1b397af6c8',
+      'e724aa8e-c5c3-4bcf-9cc2-f8085321b683', '64a2d1c5-86d6-40ec-951f-c98a2967bf39',
+      '7cebd756-d9f9-43d2-bc62-6720fd1c74e4']
+    'jcr:uuid': '09afc2b2-5944-447b-a5d6-9b7cbf74ea06'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:16:14.952+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:46:14.553+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:46:11.984+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'A world of wealth-building opportunities'
+  'contentC3List':
+    'c3Items': []
+    'jcr:uuid': '32cbaeb2-6f93-4b91-8ffa-ce2447f90f21'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:16:14.955+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:46:14.554+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:46:11.985+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC5List':
+    'c5Items': []
+    'jcr:uuid': 'e0529f22-2465-4c5b-93ed-78ce69155cdf'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:16:14.958+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:46:14.554+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:46:11.986+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': '222ca53d-ed67-46b9-a0ee-d285748af254'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:16:14.959+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:46:14.554+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:52:59.880+08:00
+    'mgnl:lastModifiedBy': 'superuser'

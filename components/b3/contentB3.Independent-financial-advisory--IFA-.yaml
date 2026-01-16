@@ -1,0 +1,55 @@
+'Independent-financial-advisory--IFA-':
+  'divider': true
+  'itemText': '<p><strong>Regional dominance, global reach</strong></p>
+
+
+    <p>We combine deep ASEAN roots and research resources with global connectivity.&nbsp;<br
+    />
+
+    Our on-the-ground presence in key Asian markets gives your advisors a local information
+    advantage that global-only platforms cannot match.</p>
+
+
+    <p><strong>Open architecture</strong></p>
+
+
+    <p>Open architecture We are product-agnostic. We do not push proprietary funds.&nbsp;<br
+    />
+
+    Our open-architecture model ensures you have unbiased access to the best-in-class
+    products that fit your clients&#39; needs.</p>
+
+
+    <p><strong>Dedicated intermediary support</strong></p>
+
+
+    <p>You are never just a ticket number.&nbsp;<br />
+
+    We assign dedicated business development managers to our financial advisory partners
+    to assist with complex trade execution, corporate actions, and operational troubleshooting.</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB3'
+  'jcr:uuid': '451a8655-7c49-483d-818d-a2d20c40add7'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-12T12:45:21.190+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T10:44:44.002+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.4'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T10:44:43.679+08:00
+  'mgnl:lastModified': 2026-01-15T10:44:41.323+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Independent financial advisory (IFA)'
+  'title': 'The advantages of partnering with UOBKH'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': '6bd918ba-9e5e-4c13-a1cd-cd69556b37ce'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-29T10:17:28.538+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T10:44:44.002+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-29T10:17:28.538+08:00
+    'mgnl:lastModifiedBy': 'superuser'

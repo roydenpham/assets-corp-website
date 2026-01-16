@@ -1,0 +1,25 @@
+'Bespoke-structured-solutions':
+  'description': '<p><!--StartFragment -->Differentiate your advisory practice. We
+    act as your gateway to sophisticated yield-enhancement tools, including Fixed
+    Coupon Notes (FCN), Bonus Enhanced Notes (BEN), and Principal Protected Notes
+    (PPN).</p>
+
+
+    <p>Our dedicated Strategic Partnership Team collaborates with you to create bespoke
+    tranches tailored to your clients&#39; risk profiles.</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': 'ce5055c3-abe8-4648-931e-884c76dae421'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T01:11:29.266+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:11:05.559+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:11:05.162+08:00
+  'mgnl:lastModified': 2025-12-30T16:25:13.588+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Bespoke structured solutions'
+  'title': 'Bespoke structured solutions'

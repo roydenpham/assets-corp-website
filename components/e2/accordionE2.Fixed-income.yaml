@@ -1,0 +1,19 @@
+'Fixed-income':
+  'description': "<p><!--StartFragment --></p>\n\n<ul>\n\t<li>\n\t<p>Investment grade\
+    \ and high yield bonds from various issuers and multiple geographic areas and\
+    \ industries</p>\n\t</li>\n\t<li>\n\t<p>All types available, from simple bullet\
+    \ bonds to complex bonds with embedded derivatives</p>\n\t</li>\n</ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': 'ea7f3769-da8c-4d1a-9487-dc1b397af6c8'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T12:55:30.528+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T16:32:18.241+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.4'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T16:32:17.973+08:00
+  'mgnl:lastModified': 2026-01-14T16:32:15.493+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Fixed income'
+  'title': 'Fixed Income and Bonds'

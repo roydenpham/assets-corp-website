@@ -1,0 +1,17 @@
+'Credible':
+  'description': '<ul><li>Backed by the&nbsp;UOB Group</li><li>We are listed on the
+    Singapore Exchange (Ticker: UOBK)</li></ul>'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:listD1'
+  'jcr:uuid': 'cb776e87-b4e2-4898-9958-9d417becdadb'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T18:14:26.394+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:15:30.375+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:15:30.089+08:00
+  'mgnl:lastModified': 2025-12-11T18:14:26.394+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Credible'
+  'title': 'Credible'

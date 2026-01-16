@@ -1,0 +1,28 @@
+'Malaysia':
+  'image': 'jcr:0bd2df48-a71e-4341-a237-d8a58969c218'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC11'
+  'jcr:uuid': 'c90ffc2e-b472-4e2a-86e9-80eeb3a62ac5'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T00:51:39.923+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T00:26:38.272+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.4'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T00:26:37.935+08:00
+  'mgnl:lastModified': 2026-01-15T00:26:35.457+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Malaysia'
+  'title': 'Malaysia'
+  'ctaChooser':
+    'href': 'https://utrade.com.my'
+    'isExternal': true
+    'jcr:uuid': '53fd9614-af3a-477d-95da-d680c80cca80'
+    'label': 'View website'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-11T00:51:39.927+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T00:26:38.273+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T00:26:35.457+08:00
+    'mgnl:lastModifiedBy': 'superuser'

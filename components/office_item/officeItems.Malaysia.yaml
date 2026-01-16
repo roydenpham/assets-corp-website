@@ -1,0 +1,39 @@
+'Malaysia':
+  'email': 'contact@utrade.com.my '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:officeItem'
+  'jcr:uuid': '3d515e8b-4fa7-4720-8f24-792d4f222b7f'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-14T12:32:00.384+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:32:02.443+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:32:02.064+08:00
+  'mgnl:lastModified': 2026-01-14T12:32:00.384+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Malaysia'
+  'phoneNumber': '(603) 2147 1888'
+  'title': 'UOB Kay Hian (Malaysia) Holdings Sdn Bhd'
+  'value': 'Malaysia'
+  'address':
+    'areas': []
+    'jcr:uuid': 'cebc12ee-f30d-44fd-bf0c-e1c232290ac6'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-14T12:32:00.388+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:32:02.444+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:32:00.388+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'regions': []
+    'streets': []
+    'text': '<p>Suite 19.01<br />
+
+      Menara Keck Seng,<br />
+
+      203, Jalan Bukit Bintang,<br />
+
+      55100 Kuala Lumpur, Malaysia</p>
+
+      '

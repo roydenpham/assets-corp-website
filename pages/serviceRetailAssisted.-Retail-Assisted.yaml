@@ -1,0 +1,76 @@
+'-Retail-Assisted':
+  'contentB1': '7459053c-0c94-443c-93a5-9cfe3b1124a6'
+  'contentB4': 'd6aef147-ea80-4647-b0f2-2996e1b0115c'
+  'contentB7': '8aeb6ddb-2118-47ad-ad16-6c6bdc13a3ef'
+  'headerA2': 'e3300224-24d4-4d47-a53e-91c6eccacd6d'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:serviceRetailAssisted'
+  'jcr:uuid': '83099b98-e062-4a8e-8926-3721949ad55a'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T11:20:15.641+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-16T05:16:51.416+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.5'
+  'mgnl:lastActivatedVersionCreated': 2026-01-16T05:16:50.909+08:00
+  'mgnl:lastModified': 2026-01-16T05:16:48.994+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': ' Retail Assisted'
+  'title': ' Retail Assisted'
+  'featureC11List':
+    'c11Items': ['caff0776-b74b-4e1e-8dd7-e6c46efd96bc', 'b59e063d-60a2-4e82-befd-9095a3862744',
+      'dc763ac7-9fb2-4c07-893f-a7870b75972c', 'bb756ff0-874c-47bb-9530-d5b09e0dd263',
+      '6804fd43-a152-4624-b990-4d19e0dc8948']
+    'jcr:uuid': 'a4fddb79-e9b5-41dc-9205-d9f93653484f'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:20:15.647+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T05:16:51.416+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T05:16:48.992+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Professional, human-assisted investment services'
+  'accordionE2List':
+    'e2Items': ['2effe508-e7d8-4848-87f9-00f2e129fbfb', '64a2d1c5-86d6-40ec-951f-c98a2967bf39',
+      'ea7f3769-da8c-4d1a-9487-dc1b397af6c8', 'e724aa8e-c5c3-4bcf-9cc2-f8085321b683',
+      '2b98cbba-b24f-4d8d-9f5b-b792fe0c9a57', '4a4961c5-83b3-4489-afde-2a3a935144e7',
+      '0bc66e9b-5fb2-49d8-9fc0-1873f3ba9593', '7cebd756-d9f9-43d2-bc62-6720fd1c74e4']
+    'jcr:uuid': 'ccba1dab-31b8-4eb9-a7cb-4c83720cb1b2'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:20:15.649+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T05:16:51.417+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T05:16:48.994+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'A world of wealth-building opportunities'
+  'contentC3List':
+    'c3Items': []
+    'jcr:uuid': '5b7df80e-05e1-472f-b740-796ccf4b6bab'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:20:15.652+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T05:16:51.417+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:47:05.176+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC5List':
+    'c5Items': []
+    'jcr:uuid': 'dac12aca-c644-4d8b-ab4f-14c759177ec0'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:20:15.654+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T05:16:51.417+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:47:05.177+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': '5fb8ec03-a04f-4504-9b85-59193cfc2932'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:20:15.655+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T05:16:51.418+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:55:48.260+08:00
+    'mgnl:lastModifiedBy': 'superuser'

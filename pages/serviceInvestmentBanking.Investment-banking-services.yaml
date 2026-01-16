@@ -1,0 +1,41 @@
+'Investment-banking-services':
+  'contentB2': '05c54def-5642-4c58-8f19-15d62c718513'
+  'contentB3List1': '5d0d33ca-16ba-472c-91df-f44ff219dd0b'
+  'contentB3List2': 'd1a0a406-364b-4e65-b832-9961f98e23ee'
+  'contentB3List3': 'b4497bc8-7053-4210-a6b7-ffdd8ac69fdd'
+  'contentB7': '04e57e46-671d-4072-adc8-1e6cb63298ab'
+  'headerA2': '422db403-fd7e-4c15-a5dc-3eff2bee1750'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:serviceInvestmentBanking'
+  'jcr:uuid': '262f3fd2-0941-4ae8-a6f0-ccca543f1637'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T11:55:25.511+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:53:50.245+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:53:49.904+08:00
+  'mgnl:lastModified': 2026-01-14T12:53:48.145+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Investment banking services'
+  'title': 'Investment banking services'
+  'contentC3List':
+    'c3Items': []
+    'jcr:uuid': 'ff61f69f-7183-4e30-a8a9-bcbf00670fe9'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:55:25.515+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:53:50.245+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:53:48.145+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': '9c79aef4-19e7-4e7f-a76f-99fb4cc85525'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:55:25.517+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:53:50.246+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:56:08.912+08:00
+    'mgnl:lastModifiedBy': 'superuser'

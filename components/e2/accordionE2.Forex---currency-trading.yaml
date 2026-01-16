@@ -1,0 +1,18 @@
+'Forex---currency-trading':
+  'description': "<ul>\n\t<li><!--StartFragment -->Online currency trading platform,\
+    \ with round-the-clock trading facilities and global cross currency trading</li>\n\
+    </ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': 'e724aa8e-c5c3-4bcf-9cc2-f8085321b683'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T12:55:36.493+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-08T01:01:56.416+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-08T01:01:56.047+08:00
+  'mgnl:lastModified': 2026-01-08T01:01:52.577+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Forex / currency trading'
+  'title': 'Forex trading'

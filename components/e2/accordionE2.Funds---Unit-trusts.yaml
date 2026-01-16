@@ -1,0 +1,26 @@
+'Funds---Unit-trusts':
+  'description': "<p><!--StartFragment -->Connections to over 80 local and global\
+    \ fund houses with over 800 funds covering multiple investment themes, including:</p>\n\
+    \n<p><!--StartFragment --></p>\n\n<ul>\n\t<li>\n\t<p><strong>Global Asia Pacific</strong>\
+    \ &ndash; Emerging Europe, Latin America</p>\n\t</li>\n\t<li>\n\t<p><strong>Fixed\
+    \ income</strong> &ndash; Investment grade, high yield, emerging markets</p>\n\
+    \t</li>\n\t<li>\n\t<p><strong>Emerging markets</strong> &ndash; ASEAN, BRIC, Middle\
+    \ East</p>\n\t</li>\n\t<li>\n\t<p><strong>Commodities</strong> &ndash; Agribusiness,\
+    \ precious metals, energy</p>\n\t</li>\n\t<li>\n\t<p><strong>Single country</strong>\
+    \ &ndash; China A-share, India, Korea, Singapore, Japan</p>\n\t</li>\n\t<li>\n\
+    \t<p><strong>Sectors</strong> &ndash; Utility, property, mining, biotech</p>\n\
+    \t</li>\n</ul>\n"
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE2'
+  'jcr:uuid': '2b98cbba-b24f-4d8d-9f5b-b792fe0c9a57'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-11T12:55:17.184+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:10:52.325+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.3'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:10:52.134+08:00
+  'mgnl:lastModified': 2025-12-30T16:33:02.400+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Funds / Unit trusts'
+  'title': 'Funds / Unit trusts'

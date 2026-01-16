@@ -1,0 +1,117 @@
+'Research-Companies':
+  'filterI': '4812572f-b7c5-4040-bbd6-34de9cbcde63'
+  'headerA2': '2dda1662-7fc4-4fdd-a4dd-7b66b0a5ba9e'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:researchCompanies'
+  'jcr:uuid': '47842498-8fbd-4f20-a1de-46140e12ca19'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T12:07:14.341+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T12:07:18.776+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T12:07:18.124+08:00
+  'mgnl:lastModified': 2026-01-06T12:07:14.341+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Research Companies'
+  'title': 'Research Companies'
+  'specialMenu':
+    'jcr:uuid': '612bd5c5-8259-4b14-a926-1bd39e7e10cf'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:07:14.345+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T12:07:18.777+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-06T12:07:14.345+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'isActive': false
+      'jcr:uuid': 'e6f201b7-bec0-4b17-b8a2-16aa646e4bf2'
+      'menuItems': 'aeb4971a-c3d8-4fb0-968b-f48facef4ddc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:07:14.345+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T12:07:18.779+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-06T12:07:14.345+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '1':
+      'isActive': false
+      'jcr:uuid': 'ed0b86a5-f216-43d5-813f-d3650adaf90a'
+      'menuItems': '3e75fc59-a5f6-4aa1-ab2a-41a3922e32db'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:07:14.346+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T12:07:18.781+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-06T12:07:14.346+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '2':
+      'isActive': false
+      'jcr:uuid': '802cbc58-cef6-4886-b3c4-2d2051929ecf'
+      'menuItems': '6765ee00-0a73-4718-a24d-e07b108b41a6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:07:14.346+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T12:07:18.783+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-06T12:07:14.346+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '3':
+      'isActive': true
+      'jcr:uuid': '4beccef6-d506-4a5b-b0d1-f361ae4a3c47'
+      'menuItems': '51fb53b6-e453-4257-8718-8daa8dbb53ef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:07:14.347+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T12:07:18.785+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-06T12:07:14.347+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['13bd55a8-5d65-419d-b628-9aea34a17a57', 'c5686a3e-21df-469e-b5a7-2ad43183fbf2',
+      '148edfe7-39c4-478e-af7c-9b75ee452ca1']
+    'isBackground': true
+    'jcr:uuid': '496ea9a1-f4a0-46d0-9e54-8a610ad80d55'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:07:14.350+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T12:07:18.787+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-06T12:07:14.350+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Comprehensive corporate research across asset classes, delivering valuations,
+      forecasts, and insights to support informed investment choices.'
+  'contentC6List':
+    'c6Items': ['219070a7-9149-4446-bae9-8afdf13a9ae5', '8430d8d3-94d4-4dd9-840d-e834951cd30b',
+      '4fa2b8cc-8c36-4eda-9639-b77f9b936df6', '90725e52-badd-452c-b8cb-861ca66964b6',
+      'ab22785c-d576-44bf-a8c5-cabf26d0a6a6']
+    'jcr:uuid': 'b4e65e8e-e47b-4c33-8977-414ba3a7f73d'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:07:14.352+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T12:07:18.789+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-06T12:07:14.352+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Consistent, credible, valuation-driven analysis'
+    'ctaChooser':
+      'isExternal': false
+      'jcr:uuid': 'cbb379eb-e09d-479d-9592-4ae627aa4cba'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:07:14.353+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-06T12:07:18.790+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-06T12:07:14.353+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'featureC5List':
+    'c5Items': ['1cd12d0e-8908-4503-bbde-ab2bae23439a', 'bf612357-ed5b-4017-9e8b-c0c8a393ea01']
+    'jcr:uuid': 'f593cda9-c16b-4da6-8611-2e53c2b05cb6'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:07:14.353+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T12:07:18.792+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-06T12:07:14.353+08:00
+    'mgnl:lastModifiedBy': 'superuser'

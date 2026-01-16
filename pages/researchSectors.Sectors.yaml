@@ -1,0 +1,97 @@
+'Sectors':
+  'contentB3List': 'e2d9bdc8-0a8b-478e-9c8a-ba9f38cc94fd'
+  'description': 'Sectors'
+  'filterI': '4812572f-b7c5-4040-bbd6-34de9cbcde63'
+  'headerA2': 'ae99a5d6-12fc-437c-9449-80ac46020a5d'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:researchSectors'
+  'jcr:uuid': '414ce88d-0457-4be6-bb59-140e09fe3cb8'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T12:04:26.526+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-12T23:54:01.163+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-12T23:54:00.635+08:00
+  'mgnl:lastModified': 2026-01-12T23:53:58.225+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Sectors'
+  'title': 'Sectors'
+  'specialMenu':
+    'jcr:uuid': '56df870b-5770-4016-999b-9537dba1319c'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:04:26.530+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:01.163+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:53:58.223+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'isActive': false
+      'jcr:uuid': '0e70d3f1-2005-437d-bcd5-3b0a3844397e'
+      'menuItems': 'aeb4971a-c3d8-4fb0-968b-f48facef4ddc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:04:26.531+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:01.164+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:53:58.222+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '1':
+      'isActive': false
+      'jcr:uuid': '2968e0f1-87a8-4040-840e-0624b2858cf0'
+      'menuItems': '3e75fc59-a5f6-4aa1-ab2a-41a3922e32db'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:04:26.531+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:01.164+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:53:58.222+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '2':
+      'isActive': true
+      'jcr:uuid': '0204f60c-6d06-46e1-a06c-2216779fba8e'
+      'menuItems': '6765ee00-0a73-4718-a24d-e07b108b41a6'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:04:26.532+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:01.164+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:53:58.223+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+    '3':
+      'isActive': false
+      'jcr:uuid': '328b06e4-7718-410b-bafe-9073a475adda'
+      'menuItems': '51fb53b6-e453-4257-8718-8daa8dbb53ef'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-06T12:04:26.533+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-12T23:54:01.165+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-12T23:53:58.223+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': ['fc3280bf-a3df-4620-8c40-c36797703447', '322ef1a3-95e5-48a6-b850-2ce4e3a50c12',
+      '11fcb079-e748-4d70-a013-6f13e08120d7']
+    'isBackground': true
+    'jcr:uuid': 'b69eb9e7-a6f1-43fa-8387-9a85e82af5f7'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:04:26.536+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:01.165+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:53:58.225+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Deep, data-driven coverage coupled with ‘kicking-the-tyres’ research
+      across industries, highlighting growth catalysts, risks, and actionable sector
+      allocation opportunities for investors.'
+  'featureC5List':
+    'c5Items': ['1cd12d0e-8908-4503-bbde-ab2bae23439a', 'bf612357-ed5b-4017-9e8b-c0c8a393ea01']
+    'jcr:uuid': 'd440c15d-92b1-4013-a2ee-f5196c30667e'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T12:04:26.537+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-12T23:54:01.165+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:53:58.225+08:00
+    'mgnl:lastModifiedBy': 'superuser'

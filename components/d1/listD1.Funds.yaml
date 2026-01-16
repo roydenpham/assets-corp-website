@@ -1,0 +1,20 @@
+'Funds':
+  'description': '<p><!--StartFragment -->Curated insights on unit trusts, mutual
+    funds, and investment strategies, supporting investors across asset classes and
+    market cycles.</p>
+
+    '
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:listD1'
+  'jcr:uuid': 'e060fb96-928d-480a-92a2-a2b1418e07fc'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-15T06:08:50.812+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T06:08:53.693+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T06:08:53.369+08:00
+  'mgnl:lastModified': 2026-01-15T06:08:50.812+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Funds'
+  'title': 'Funds'

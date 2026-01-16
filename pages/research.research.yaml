@@ -1,0 +1,76 @@
+'research':
+  'content': 'Our institutional research covers over 400 stocks across Singapore,
+    Greater China, Malaysia, Thailand, and Indonesia, including 60–70% of MSCI stocks,
+    with strong depth in small- and mid-cap stocks.'
+  'headerA2': '8722a75f-615d-4df5-93b8-c96326a8d7c7'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:research'
+  'jcr:uuid': '19c556d2-7462-4edf-a482-0574666a0fa1'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-15T06:07:41.238+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-16T11:56:06.134+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.5'
+  'mgnl:lastActivatedVersionCreated': 2026-01-16T11:56:05.701+08:00
+  'mgnl:lastModified': 2026-01-16T11:56:03.803+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'research'
+  'd1List':
+    'jcr:uuid': '2531f921-1dab-40a6-8378-8804fbac06e5'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-15T06:07:41.240+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T11:56:06.135+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T11:56:03.802+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'jcr:uuid': '23fbb50f-b7ea-4062-8d58-21bddb8c162a'
+      'listD1s': ['2bdfc97c-9a76-4507-aa30-532131f0bf77', 'e060fb96-928d-480a-92a2-a2b1418e07fc',
+        '8072f327-8b10-446b-b913-b5929dd30bdf']
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-15T06:07:41.240+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-16T11:56:06.135+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-16T11:56:03.802+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Private Wealth Management'
+    '1':
+      'jcr:uuid': '66a19867-b825-47f0-a6e2-4884fc434645'
+      'listD1s': ['d1b1dac5-e3f9-468d-b2c5-a9d6112153c0', '463e64d4-4ef8-4a28-95b7-8bebee41dc46',
+        '0acf63ae-45e2-4da6-a4b0-c967048dafac']
+      'mgnl:activationStatus': true
+      'mgnl:created': 2026-01-15T06:14:09.112+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-16T11:56:06.135+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-16T11:56:03.802+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Equities'
+  'featureC6Lists':
+    'c6Items': ['9bc17ab0-ead9-4528-a6d6-0503edd464e3', '6dff72c5-59ec-418e-93e1-0fde64e8349a',
+      '993a0390-00f8-4555-84a3-9d5e8122f3cd', 'bca65c47-898e-4113-9c38-51cfca242c1c',
+      '7465c868-24a6-4b3b-8d25-0192ca44b4ab']
+    'jcr:uuid': 'da406e3d-0ab4-4751-abea-4d8678fd17d3'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-15T06:07:41.242+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T11:56:06.136+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T01:44:19.148+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Access research insights across regional markets'
+  'featureC11List':
+    'c11Items': ['83b41ecd-1e20-424d-8ba5-4a75434132f6', 'bbdc94d2-cceb-497e-aef9-b4fcfa9dfb38',
+      'c90ffc2e-b472-4e2a-86e9-80eeb3a62ac5', '83c5eac2-5841-4550-a61f-0e6b761e70e7',
+      '76a71076-bb1b-4a46-8b1a-df33a9eab57f']
+    'jcr:uuid': '7bb4caa8-697c-42a6-89c4-acb0528d6325'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-16T05:27:32.294+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T11:56:06.136+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T11:56:03.803+08:00
+    'mgnl:lastModifiedBy': 'superuser'

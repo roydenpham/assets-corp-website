@@ -1,0 +1,36 @@
+'Our-operations-span-APAC-and-beyond':
+  'background': false
+  'description': '<p><!--StartFragment --><!--StartFragment -->We invite qualified
+    individuals to join us to offer tailored, flexible solutions that will help others
+    to achieve their financial objectives.</p>
+
+
+    <p><!--StartFragment --><strong>Qualified individuals are invited to review our
+    current job opportunities</strong></p>
+
+    '
+  'image': 'jcr:bbf836e8-c790-4ec8-af71-b52354459401'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:contentB1'
+  'jcr:uuid': 'f5ed2f43-a1a9-4a20-a11c-e046ef09d538'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:24:00.301+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T00:05:03.300+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.1'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T00:05:02.936+08:00
+  'mgnl:lastModified': 2025-12-23T09:39:43.397+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Our operations span APAC and beyond'
+  'title': 'Our operations span APAC and beyond'
+  'ctaChooser':
+    'isExternal': false
+    'jcr:uuid': '94f37a3f-752c-4bb1-b228-21e36d41e686'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T02:24:00.310+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T00:05:03.301+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2025-12-21T02:24:00.310+08:00
+    'mgnl:lastModifiedBy': 'superuser'

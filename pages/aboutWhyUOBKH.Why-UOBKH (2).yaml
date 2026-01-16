@@ -1,0 +1,399 @@
+'Why-UOBKH':
+  'description': '<p><!--StartFragment -->Why UOBKH</p>
+
+    '
+  'headerA2': 'e4d5dff4-61fb-42be-8bef-c6dafe00cf9d'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:aboutWhyUOBKH'
+  'jcr:uuid': '4a333b84-3586-400b-9605-e09e8bec95cb'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T01:44:48.624+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-15T19:27:09.125+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.8'
+  'mgnl:lastActivatedVersionCreated': 2026-01-15T19:27:07.689+08:00
+  'mgnl:lastModified': 2026-01-15T19:27:05.530+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Why UOBKH'
+  'title': 'Why UOBKH'
+  'gSection':
+    'jcr:uuid': 'a30d8523-293b-403b-86c2-c3634bd9b20d'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:44:48.627+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T19:27:09.125+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T19:27:05.487+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Fast facts'
+    'component1':
+      'jcr:uuid': 'bfd29698-daf2-4c6f-8994-8b0af48ffe9c'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:44:48.627+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T19:27:09.126+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T19:27:05.476+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      '0':
+        'description': 'Backed by the UOB Group'
+        'image': 'jcr:6ac3bfd8-def4-45fb-a169-9d66159a19f4'
+        'jcr:uuid': 'f63d69dc-8cec-42c3-a786-bbdebf9b7a6c'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.627+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.126+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.475+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '1':
+        'description': 'Singapore global headquarters'
+        'image': 'jcr:cd963d6b-5d75-4787-95cf-741262072c51'
+        'jcr:uuid': '2ed87653-07a3-4948-80b1-8be46481ad5f'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.648+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.126+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.476+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+    'component2':
+      'jcr:uuid': '28570afc-331d-4051-8010-9cc05038883a'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:44:48.659+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T19:27:09.127+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T19:27:05.487+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      '0':
+        'content': '<p><!--StartFragment -->UOB-Kay Hian Holdings Limited &ndash;           Listed Singapore Exchange (SGX) 23 October 2000, ticker: U10</p>
+
+          '
+        'jcr:uuid': 'dc61ec9b-4c0c-441c-8a76-1d028c52ad48'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.660+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.127+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.484+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '1':
+        'content': '<p><!--StartFragment -->Also listed in Thailand: UOB Kay Hian
+          Securities (Thailand) Public Company Limited &ndash; Listed Stock Exchange
+          of Thailand (SET) 22 November 2005, ticker: UOBKH</p>
+
+          '
+        'jcr:uuid': 'f42be6d0-9041-4712-8f46-8dd54c09bc75'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.660+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.127+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.484+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '2':
+        'content': '<p><!--StartFragment -->One stop access to global markets from
+          investment banking services to individual investment needs</p>
+
+          '
+        'jcr:uuid': '0bcde6f3-6fb0-48f5-be2c-0437fdcf6eb0'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.660+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.128+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.485+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '3':
+        'content': '<p><!--StartFragment -->Online and broker supported investing
+          in global stocks, bonds, mutual funds, structured products and OTC markets</p>
+
+          '
+        'jcr:uuid': '8fa48875-7474-430e-bc27-356eb340e860'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.661+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.128+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.485+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '4':
+        'content': '<p><!--StartFragment -->Private wealth management&nbsp;            </p>
+
+          '
+        'jcr:uuid': 'e519fba2-1d77-447b-8850-1a23be20b627'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.661+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.128+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.486+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '5':
+        'content': '<p><!--StartFragment -->Corporate finance and equity capital markets            </p>
+
+          '
+        'jcr:uuid': '49e3e6f2-9502-452c-adbf-c0cd6f135799'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.661+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.128+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.486+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '6':
+        'content': '<p><!--StartFragment -->3,200+ global team, including 80+ researchers&nbsp;           </p>
+
+          '
+        'jcr:uuid': '9757c25f-1138-4f36-8e7d-5adfe4cc6ef6'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.662+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.129+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.486+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+      '7':
+        'content': '<p><!--StartFragment -->Exchange memberships in Singapore, Hong
+          Kong, Malaysia, Thailand and Indonesia&nbsp;</p>
+
+          '
+        'jcr:uuid': '3640f290-d874-4535-8c16-d8ac6f698db8'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:44:48.662+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.129+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.487+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+    'button':
+      'isExternal': false
+      'jcr:uuid': '00abe911-3832-436f-b87d-e1246f7fe5fc'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:44:48.668+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T19:27:09.129+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T00:18:06.995+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+  'sectionC5list':
+    'c5Items': []
+    'jcr:uuid': 'a8c7f8de-c56d-4574-beb0-2a1f638fc5d4'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:44:48.670+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T19:27:09.129+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:55:46.614+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'hSection':
+    'jcr:uuid': 'bfe36d1a-3208-4f91-a9bf-53d5a8c07f7e'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:48:57.336+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T19:27:09.130+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T19:27:05.494+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Our values are our promise'
+    'component3':
+      'jcr:uuid': '08fbeb54-5dd8-410f-8164-f15ce28bb382'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:48:57.336+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T19:27:09.130+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T19:27:05.494+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      '0':
+        'description': '<p><!--StartFragment -->We act with integrity and discipline.&nbsp;<br
+          />
+
+          We build trust by prioritising your long-term interests and holding ourselves
+          to the highest ethical standards.             </p>
+
+          '
+        'icon': 'honour'
+        'jcr:uuid': '015ecec7-a27a-4068-b805-738c1014ba4c'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.337+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.130+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.493+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'Honourable'
+      '1':
+        'description': '<p><!--StartFragment -->We seek opportunities to create meaningful
+          value for you.&nbsp;<br />
+
+          With foresight and determination, we navigate change, identify potential
+          and tailor solutions designed to achieve your unique goals.           </p>
+
+          '
+        'icon': 'enterprise'
+        'jcr:uuid': '050d0ebd-b00f-4611-ac2c-2d7a76faf37e'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.337+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.130+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.493+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'Enterprising'
+      '2':
+        'description': '<p><!--StartFragment -->We work as one firm, across markets
+          and teams, to identify opportunity and deliver a higher level of service.&nbsp;<br
+          />
+
+          Teamwork allows us to deeply understand your needs and respond quickly with
+          tailored, flexible solutions.           </p>
+
+          '
+        'icon': 'united'
+        'jcr:uuid': 'fa3c89e9-13ec-4364-8377-1a37aab51a27'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.338+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.131+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.494+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'United'
+      '3':
+        'description': '<p><!--StartFragment -->We are dedicated to bringing you the
+          solutions you need to build a secure financial future.&nbsp;<br />
+
+          Our commitment gives us a sense of urgency as we work to build productive
+          relationships, honour our promises and support you with loyalty and purpose.</p>
+
+          '
+        'icon': 'committed'
+        'jcr:uuid': '9560d9a4-9bb1-4b3c-8b85-43d346f235e6'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.338+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.131+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.494+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'Committed'
+  'timelineComponentSection':
+    'jcr:uuid': 'ad7b7ede-4204-4869-b412-635ca879a3df'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T01:48:57.341+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T19:27:09.131+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T19:27:05.530+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'subtitle': 'UOBKH can trace its history back to the 1900s as Kay Hian & Co (Pte),
+      a securities dealer and a founding member of the forerunner to the Singapore
+      Exchange.'
+    'title': 'Milestones on our journey to ongoing success'
+    'timelineItems':
+      'jcr:uuid': 'a3f3e672-7dcb-4d08-8480-c1aef3bf2d17'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T01:48:57.341+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-15T19:27:09.132+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-15T19:27:05.530+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      '0':
+        'description': '<p><!--StartFragment -->Post-2016 &ndash; Present Expanded
+          into major global markets and broadened investment offerings. Refreshed
+          brand spotlights commitment to helping people build secure financial futures.</p>
+
+          '
+        'jcr:uuid': '6feaba52-8627-4162-9b9f-22b76af523a2'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.341+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.132+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.527+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'Modern positioning & global operations (post-2016 – present) '
+      '1':
+        'description': '<p><!--StartFragment --><!--StartFragment -->Founding &amp;
+          early establishment (early 1900s &ndash; 1970)</p>
+
+          '
+        'jcr:uuid': '2abfcd31-6506-4683-8a46-f27e0524b6ae'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.341+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.132+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.527+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'Founding & early establishment (early 1900s – 1970)'
+      '2':
+        'description': '<p><!--StartFragment --><!--StartFragment -->Capital market
+          growth (1987 &ndash; 1999)</p>
+
+          '
+        'jcr:uuid': 'cde420d3-0511-4cb5-ac82-92c24c8fda19'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.342+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.132+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.528+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'Capital market growth (1987 – 1999)'
+      '3':
+        'description': '<p><!--StartFragment --><!--StartFragment -->Major merger
+          &amp; renaming (2000 &ndash; 2002)</p>
+
+          '
+        'jcr:uuid': '3cc04b9f-995b-4141-8c8e-808dc50ac9c8'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.342+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.133+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.529+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'Major merger & renaming (2000 – 2002)'
+      '4':
+        'description': '<p><!--StartFragment --><!--StartFragment -->Aggressive acquisitions
+          &amp; regional expansion (2002 &ndash; 2005)</p>
+
+          '
+        'jcr:uuid': '8510487e-192f-4c02-9d96-53af11b1e163'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.342+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.133+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.529+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'Aggressive acquisitions & regional expansion (2002 – 2005)'
+      '5':
+        'description': '<p><!--StartFragment --><!--StartFragment -->Continued growth
+          &amp; Southeast Asia focus (2010 &ndash; 2016)</p>
+
+          '
+        'jcr:uuid': 'fbc9c56e-2914-4b7e-ab2f-0b2465d5e855'
+        'mgnl:activationStatus': true
+        'mgnl:created': 2025-12-21T01:48:57.343+08:00
+        'mgnl:createdBy': 'superuser'
+        'mgnl:lastActivated': 2026-01-15T19:27:09.133+08:00
+        'mgnl:lastActivatedBy': 'superuser'
+        'mgnl:lastModified': 2026-01-15T19:27:05.530+08:00
+        'mgnl:lastModifiedBy': 'superuser'
+        'title': 'Continued growth & Southeast Asia focus (2010 – 2016)'
+  'listD1':
+    'd1Items': ['34b42ac7-0816-42df-85cf-668d58f44031', 'beef1575-94a8-4dce-ae3f-300931cd6929']
+    'jcr:uuid': '04b3dd6b-10b3-494c-8ae1-bceb4f08bb43'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-13T10:58:29.606+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-15T19:27:09.133+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-15T19:27:05.488+08:00
+    'mgnl:lastModifiedBy': 'superuser'

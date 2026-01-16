@@ -1,0 +1,47 @@
+'Thailand':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:accordionE3'
+  'jcr:uuid': '8462a4bb-dc98-447e-a437-dc8281a20c5b'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-21T02:17:46.528+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-13T12:17:32.391+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.3'
+  'mgnl:lastActivatedVersionCreated': 2026-01-13T12:17:31.699+08:00
+  'mgnl:lastModified': 2026-01-13T12:17:29.726+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Thailand'
+  'title': 'Thailand'
+  'accordionItem':
+    'jcr:uuid': '4d792c6c-6ce1-4258-9a32-5d3c4adaf11f'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-21T02:17:46.530+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-13T12:17:32.391+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-13T12:17:29.726+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    '0':
+      'content': '<p><!--StartFragment --></p>
+
+
+        <p>Mr Ratch holds a Master of Business Administration from Seattle University
+        and a Bachelor of Engineering from Chulalongkorn University, Thailand.</p>
+
+
+        <p>He joined UOB Kay Hian Securities (Thailand) Plc on 1 March 2024 as Chief
+        Executive Officer. Prior to joining, he was an Executive Director at several
+        leading financial companies in Thailand.</p>
+
+        '
+      'description': 'Chief Executive Officer'
+      'jcr:uuid': '8120c964-889f-4a2b-b484-b2048c3085eb'
+      'mgnl:activationStatus': true
+      'mgnl:created': 2025-12-21T02:17:46.530+08:00
+      'mgnl:createdBy': 'superuser'
+      'mgnl:lastActivated': 2026-01-13T12:17:32.391+08:00
+      'mgnl:lastActivatedBy': 'superuser'
+      'mgnl:lastModified': 2026-01-13T12:17:29.726+08:00
+      'mgnl:lastModifiedBy': 'superuser'
+      'title': 'Mr Ratch Sodsatit'

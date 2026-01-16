@@ -1,13 +1,0 @@
-'Fixed-Income-Monthly':
-  'description': 'Monthly review of interest rates, investment grade bonds and bond
-    funds'
-  'jcr:primaryType': 'mt:listD3'
-  'jcr:uuid': '6289b179-5406-4cbb-a12c-e4b1da814a89'
-  'length': '15 pages'
-  'mgnl:created': 2025-12-11T18:44:27.029+08:00
-  'mgnl:createdBy': 'superuser'
-  'mgnl:lastModified': 2025-12-11T18:45:19.521+08:00
-  'mgnl:lastModifiedBy': 'superuser'
-  'name': 'Fixed Income Monthly'
-  'reportDate': '1st week of each month '
-  'reportName': 'Fixed Income Monthly     (Professional Investors Only)'

@@ -1,0 +1,32 @@
+'2Q25-Round-up':
+  'description': '<p><!--StartFragment -->Banks delivered resilient earnings in 2Q25
+    (DBS: +0.7% qoq, OCBC: -6.6% qoq) despite severe...</p>
+
+    '
+  'image': 'jcr:33363b58-11d8-4ab6-b73e-c2044933fcbb'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:featureC2'
+  'jcr:uuid': '11fcb079-e748-4d70-a013-6f13e08120d7'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2025-12-23T13:50:09.972+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-06T12:13:53.750+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.2'
+  'mgnl:lastActivatedVersionCreated': 2026-01-06T12:13:53.475+08:00
+  'mgnl:lastModified': 2026-01-06T12:13:22.683+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': '2Q25 Round-up'
+  'title': '2Q25 Round-up: Delivers Resilient Earnings Despite NIM Compression'
+  'ctaChooser':
+    'detailPage': '6f1747e7-fac8-4fe1-b8e2-0c1545e37ff0'
+    'isExternal': false
+    'jcr:uuid': 'e1a5812e-b8a2-4575-90b2-54f22c9d4825'
+    'label': 'Read more'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2025-12-23T13:50:09.982+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-06T12:13:53.751+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-06T12:13:22.683+08:00
+    'mgnl:lastModifiedBy': 'superuser'

@@ -1,0 +1,41 @@
+'Service-Institutional':
+  'contentB1': 'a242864c-5d9d-437c-bb40-0799ddb9e888'
+  'contentB2': 'b5ff69d9-4bc7-49fd-8f7a-5e7759c34eab'
+  'contentB3List1': '42c4e31a-635c-4f46-a57d-5ae912895190'
+  'contentB3List2': 'd4b59216-ffbe-4798-9db4-77fd49c7f8ad'
+  'contentB7': '04e57e46-671d-4072-adc8-1e6cb63298ab'
+  'headerA2': '2aad08c5-9a96-4b07-a4de-4ce27ad37ed0'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:serviceInstitutional'
+  'jcr:uuid': '1ca6ad9c-cb7f-4985-a260-f6a75f323978'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T11:22:55.311+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:47:39.615+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.5'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:47:39.264+08:00
+  'mgnl:lastModified': 2026-01-14T12:47:37.803+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Service Institutional'
+  'title': 'Service Institutional'
+  'contentC3List':
+    'c3Items': []
+    'jcr:uuid': '4dd409fd-df02-4ff7-bf3b-7fe8125b7d3b'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:22:55.318+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:47:39.616+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:47:37.803+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': 'f1394337-6857-4afe-a8d8-99824b90f602'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:22:55.320+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:47:39.616+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:51:28.721+08:00
+    'mgnl:lastModifiedBy': 'superuser'

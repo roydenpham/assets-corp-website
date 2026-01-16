@@ -1,0 +1,38 @@
+'United-States':
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:officeItem'
+  'jcr:uuid': 'e5d733c0-84dc-4c24-b23b-53d083b84e51'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-14T12:35:58.161+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:36:01.336+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:36:00.980+08:00
+  'mgnl:lastModified': 2026-01-14T12:35:58.161+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'United States'
+  'phoneNumber': '(1-973) 313 2402'
+  'title': 'UOB Kay Hian (U.S) Inc.'
+  'value': 'United States'
+  'address':
+    'areas': []
+    'jcr:uuid': '4c7bfd0d-253e-4682-9b09-4fee800c02d9'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-14T12:35:58.164+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:36:01.337+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:35:58.164+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'regions': []
+    'streets': []
+    'text': '<p>111 Dunnell Road<br />
+
+      Suite 201<br />
+
+      Maplewood, NJ 07040<br />
+
+      USA</p>
+
+      '

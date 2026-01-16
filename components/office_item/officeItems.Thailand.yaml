@@ -1,0 +1,37 @@
+'Thailand':
+  'email': 'utrade@uobkayhian.co.th'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:officeItem'
+  'jcr:uuid': '0614c52d-479d-433e-9b21-dfabddaf2ce0'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-14T12:33:19.562+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-14T12:33:21.839+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.0'
+  'mgnl:lastActivatedVersionCreated': 2026-01-14T12:33:21.474+08:00
+  'mgnl:lastModified': 2026-01-14T12:33:19.562+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Thailand'
+  'phoneNumber': '(662) 659 8000'
+  'title': 'UOB Kay Hian Securities (Thailand) Public Company Limited'
+  'value': 'Thailand'
+  'address':
+    'areas': []
+    'jcr:uuid': '87bff6be-bc89-4ab2-adcb-6a903328548b'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-14T12:33:19.565+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-14T12:33:21.840+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:33:19.565+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'regions': []
+    'streets': []
+    'text': '<p>130-132, 3rd Sindhorn Buidling, Tower 1<br />
+
+      Wireless Road, Lumpini, Pathumwan<br />
+
+      Bangkok 10330</p>
+
+      '

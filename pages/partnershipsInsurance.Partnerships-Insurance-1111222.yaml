@@ -1,0 +1,54 @@
+'Partnerships-Insurance-1111222':
+  'contentB3List': '509c84b2-0808-4206-98d5-352b8c2bc8bf'
+  'headerA2': '59054eb5-36b0-451d-9a6b-619d9a53683d'
+  'jcr:mixinTypes': ['mgnl:hasVersion']
+  'jcr:primaryType': 'mt:partnershipsInsurance'
+  'jcr:uuid': 'b2495508-fe67-4d5e-8612-d2f2fcb810f0'
+  'mgnl:activationStatus': true
+  'mgnl:created': 2026-01-06T11:31:24.406+08:00
+  'mgnl:createdBy': 'superuser'
+  'mgnl:lastActivated': 2026-01-16T01:40:46.930+08:00
+  'mgnl:lastActivatedBy': 'superuser'
+  'mgnl:lastActivatedVersion': '1.5'
+  'mgnl:lastActivatedVersionCreated': 2026-01-16T01:40:46.562+08:00
+  'mgnl:lastModified': 2026-01-16T01:40:44.661+08:00
+  'mgnl:lastModifiedBy': 'superuser'
+  'name': 'Partnerships Insurance 1111222'
+  'title': 'Partnerships Insurance'
+  'b14Content':
+    'description': 'As an introducer, we connect clients with trusted and licensed
+      insurance brokers who provide access to a comprehensive suite of insurance solutions.  Our
+      offerings help address key wealth objectives, from personal protection and estate
+      planning to legacy transfer and business continuity.  With a growing range of
+      investment-linked insurance products, including solutions that allow portfolio
+      management within the policy, UOB Kay Hian is uniquely positioned to support
+      a holistic and integrated wealth management approach for clients.'
+    'jcr:uuid': '785b5603-face-4dab-b53c-76bc68a96e6e'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:31:24.410+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T01:40:46.930+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-16T01:40:44.661+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+    'title': 'Personalised wealth strategies that complement broader wealth planning'
+  'contentC3List':
+    'c3Items': []
+    'jcr:uuid': '2738c3ff-bac1-41da-b16f-a79c65cc08b2'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:31:24.411+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T01:40:46.930+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-14T12:49:07.734+08:00
+    'mgnl:lastModifiedBy': 'superuser'
+  'featureC2List':
+    'c2Items': []
+    'jcr:uuid': 'e0ca36aa-1820-4ae0-a20d-b7440cf1b101'
+    'mgnl:activationStatus': true
+    'mgnl:created': 2026-01-06T11:31:24.412+08:00
+    'mgnl:createdBy': 'superuser'
+    'mgnl:lastActivated': 2026-01-16T01:40:46.930+08:00
+    'mgnl:lastActivatedBy': 'superuser'
+    'mgnl:lastModified': 2026-01-12T23:55:24.989+08:00
+    'mgnl:lastModifiedBy': 'superuser'
